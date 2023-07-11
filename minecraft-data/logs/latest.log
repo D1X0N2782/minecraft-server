@@ -11,3 +11,6 @@
 [11Jul2023 16:51:04.732] [User Authenticator #51/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
 [11Jul2023 16:51:09.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:52023] logged in with entity id 428245 at (279.1787662566872, 74.0, -279.963819841003)
 [11Jul2023 16:51:09.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
+[11Jul2023 17:28:16.870] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=2857, y=5, z=-984} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
+[11Jul2023 17:46:34.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
+[11Jul2023 17:46:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
