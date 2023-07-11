@@ -1,10 +1,3 @@
-[10Jul2023 14:04:27.702] [User Authenticator #47/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
-[10Jul2023 14:04:32.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50618] logged in with entity id 365452 at (280.76125485310575, 74.0, -280.2354843270661)
-[10Jul2023 14:04:32.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
-[10Jul2023 16:03:40.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
-[10Jul2023 16:03:40.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
-[10Jul2023 19:24:26.656] [User Authenticator #48/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
-[10Jul2023 19:24:31.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50196] logged in with entity id 390851 at (280.16146847191476, 74.0, -279.98772957998693)
-[10Jul2023 19:24:31.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
-[10Jul2023 20:10:59.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
-[10Jul2023 20:10:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
+[11Jul2023 14:20:27.026] [User Authenticator #49/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[11Jul2023 14:20:32.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50963] logged in with entity id 401128 at (2659.302976629637, -4.0, -1700.4037801697311)
+[11Jul2023 14:20:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
