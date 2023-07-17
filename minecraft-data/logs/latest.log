@@ -1,5 +1,1 @@
-[16Jul2023 02:16:55.823] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,twilightforest:channel,ava:main] rejected vanilla connections
-[16Jul2023 02:16:55.824] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[16Jul2023 02:59:56.451] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[16Jul2023 22:28:14.703] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,twilightforest:channel,ava:main] rejected vanilla connections
-[16Jul2023 22:28:14.703] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[17Jul2023 07:36:13.501] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
