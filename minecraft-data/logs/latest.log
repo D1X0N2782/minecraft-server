@@ -1,1 +1,7 @@
 [17Jul2023 07:36:13.501] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jul2023 11:13:39.251] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jul2023 14:12:59.726] [User Authenticator #59/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[17Jul2023 14:13:04.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50637] logged in with entity id 552429 at (282.6793052113629, 74.0, -280.3527671326918)
+[17Jul2023 14:13:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
+[17Jul2023 15:25:55.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
+[17Jul2023 15:25:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
