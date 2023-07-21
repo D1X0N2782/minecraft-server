@@ -1,8 +1,2 @@
-[20Jul2023 03:16:04.710] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,twilightforest:channel,ava:main] rejected vanilla connections
-[20Jul2023 03:16:04.711] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[20Jul2023 03:56:06.901] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Jul2023 13:58:56.699] [User Authenticator #62/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
-[20Jul2023 13:59:01.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50248] logged in with entity id 600372 at (473.5395139329292, 80.0, -274.6327291819282)
-[20Jul2023 13:59:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
-[20Jul2023 15:23:41.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
-[20Jul2023 15:23:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
+[21Jul2023 04:24:03.992] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,twilightforest:channel,ava:main] rejected vanilla connections
+[21Jul2023 04:24:03.993] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
