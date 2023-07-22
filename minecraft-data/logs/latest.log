@@ -5,3 +5,13 @@
 [22Jul2023 09:59:24.299] [User Authenticator #63/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
 [22Jul2023 09:59:29.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:50363] logged in with entity id 620350 at (282.178755053549, 74.0, -280.6376789583004)
 [22Jul2023 09:59:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
+[22Jul2023 10:42:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has made the advancement [We Need to Go Deeper]
+[22Jul2023 10:42:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has made the advancement [A Terrible Fortress]
+[22Jul2023 10:45:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has made the advancement [Into Fire]
+[22Jul2023 10:53:08.299] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,twilightforest:channel,ava:main] rejected vanilla connections
+[22Jul2023 10:53:08.299] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[22Jul2023 11:00:30.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has made the advancement [Local Brewery]
+[22Jul2023 11:12:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has reached the goal [Trophied Champion]
+[22Jul2023 11:20:28.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer has reached the goal [Carminite Acclimation]
+[22Jul2023 11:53:43.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
+[22Jul2023 11:53:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
