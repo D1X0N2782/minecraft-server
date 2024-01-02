@@ -1,5 +1,1 @@
-https://mediafilez.forgecdn.net/files/4593/187/Xaeros_Minimap_23.5.0_Forge_1.19.4.jar
-https://mediafilez.forgecdn.net/files/4592/495/jei-1.19.4-forge-13.1.0.14.jar
-https://mediafilez.forgecdn.net/files/4539/671/twilightforest-1.19.4-4.2.1696-universal.jar
-https://mediafilez.forgecdn.net/files/4593/968/ava-1.19.4-2.4.61.jar
-https://mediafilez.forgecdn.net/files/4510/336/car-1.19.4-1.0.4.jar
+

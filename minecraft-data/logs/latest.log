@@ -1,1 +1,106 @@
-[16Aug2023 20:46:44.101] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2024 12:05:34.128] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[02Jan2024 12:05:34.140] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.9 by Eclipse Adoptium; OS Linux arch amd64 version 5.15.0-82-generic
+[02Jan2024 12:05:34.431] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/data/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[02Jan2024 12:05:35.006] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
+[02Jan2024 12:05:35.011] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[02Jan2024 12:05:35.016] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[02Jan2024 12:05:35.019] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
+[02Jan2024 12:05:35.211] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[02Jan2024 12:05:38.903] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[02Jan2024 12:05:52.388] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
+[02Jan2024 12:05:52.396] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
+[02Jan2024 12:05:54.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jan2024 12:05:55.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 45.2.0 Target: null
+[02Jan2024 12:05:58.968] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jan2024 12:06:00.558] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%2399!/assets/.mcassetsroot' uses unexpected schema
+[02Jan2024 12:06:00.560] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%2399!/data/.mcassetsroot' uses unexpected schema
+[02Jan2024 12:06:04.051] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Jan2024 12:06:05.141] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
+[02Jan2024 12:06:06.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[02Jan2024 12:06:06.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jan2024 12:06:06.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jan2024 12:06:06.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jan2024 12:06:07.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jan2024 12:06:07.103] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jan2024 12:06:07.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jan2024 12:06:09.311] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:14.429] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:15.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jan2024 12:06:19.976] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:25.133] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:30.508] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:35.663] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2024 12:06:35.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.955] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.958] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.960] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.962] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.965] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.970] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.990] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.997] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:35.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.013] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:36.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:37.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:37.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:38.486] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2024 12:06:38.931] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[02Jan2024 12:06:39.446] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24041 ms
+[02Jan2024 12:06:39.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.134s)! For help, type "help"
+[02Jan2024 12:06:39.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[02Jan2024 12:06:39.455] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[02Jan2024 12:06:39.456] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[02Jan2024 12:06:39.480] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jan2024 12:07:55.266] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[02Jan2024 12:07:57.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:52848] logged in with entity id 244 at (-72.42283945133727, 111.0, 180.51414504538917)
+[02Jan2024 12:07:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
+[02Jan2024 12:07:59.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[02Jan2024 12:08:07.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
+[02Jan2024 12:08:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
+[02Jan2024 12:08:14.446] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[02Jan2024 12:08:14.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Stopping the server]
+[02Jan2024 12:08:14.452] [RCON Client /127.0.0.1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[02Jan2024 12:08:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2024 12:08:14.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2024 12:08:14.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2024 12:08:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2024 12:08:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2024 12:08:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2024 12:08:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2024 12:08:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2024 12:08:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2024 12:08:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jan2024 12:08:17.281] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped

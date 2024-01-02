@@ -1,1 +1,1 @@
-{"@type":"me.itzg.helpers.forge.ForgeManifest","timestamp":"2023-06-25T14:55:40.821388068Z","files":null,"minecraftVersion":"1.19.4","forgeVersion":"45.1.0","serverEntry":"/data/./run.sh"}
+{"@type":"me.itzg.helpers.forge.ForgeManifest","timestamp":"2023-12-23T21:16:43.321496134Z","files":null,"minecraftVersion":"1.19.4","forgeVersion":"45.2.0","serverEntry":"run.sh"}
