@@ -10,8 +10,8 @@ services:
       EULA: "TRUE"
       TYPE: "FORGE"
       VERSION: "1.19.4"
-      ENABLE_WHITELIST: "TRUE"
-      ENFORCE_WHITELIST: "TRUE"
+      ENABLE_WHITELIST: "FALSE"
+      ENFORCE_WHITELIST: "FALSE"
       MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "true"
     tty: true
