@@ -12494,3 +12494,22 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [18:33:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.0,-12.920736695933755,0.0
 [18:38:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 [18:48:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -8.259986904108246,-5.572407366810765,2.9110829351240852
+[19:34:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IImperatore lost connection: Disconnected
+[19:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore left the game
+[19:36:06] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IImperatore is 862cdf4a-7781-42ab-a5f5-7cad1a909c65
+[19:36:06] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:36:06] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[19:36:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:36:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IImperatore[/85.53.110.93:62925] logged in with entity id 220954 at (957.0851977590667, 68.0, -134.0112930615878)
+[19:36:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore joined the game
+[19:46:01] [User Authenticator #12/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player tomoya4000 is 61fcfbb8-2012-4367-b6ae-41fdd8093988
+[19:46:02] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:46:02] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[19:46:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:46:04] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@3a91864c)
+[19:46:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tomoya4000[/83.58.184.39:51907] logged in with entity id 225499 at (939.4641781476679, 65.0, 5.464178147667855)
+[19:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 joined the game
+[19:46:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tomoya4000 lost connection: Disconnected
+[19:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 left the game
+[19:55:55] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[19:56:00] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160

@@ -867,6 +867,12 @@
     },
     "done": true
   },
+  "ic2:recipes/reinforced_glass_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 19:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-19 21:07:54 +0000"
