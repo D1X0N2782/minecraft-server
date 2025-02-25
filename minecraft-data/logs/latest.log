@@ -12141,3 +12141,25 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [08:37:15] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
 [08:39:59] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
 [08:40:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -8.421601586302017,3.374843045875636,4.267299338023008
+[08:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:40:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -6.991668123468571,1.1175929378491531,7.964784772128013
+[08:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:40:01] [RCON Client #5/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[08:41:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[08:41:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1f48770c)
+[08:41:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[08:41:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[08:41:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[08:41:48] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:44:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -4.395739948323126,0.0,-9.668985288906612
+[08:44:56] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:47:53] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:49:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:49:28] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:49:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:49:42] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:50:01] [RCON Client #7/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] UN ENDERMAN ME HA ROBADO UN BLOQUE Y MI CORDURA CON ÉL
+[08:50:37] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:50:41] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
