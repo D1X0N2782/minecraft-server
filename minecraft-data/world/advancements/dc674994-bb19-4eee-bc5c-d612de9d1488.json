@@ -637,6 +637,12 @@
     },
     "done": true
   },
+  "ic2:recipes/low_voltage_solar_panel_(lv)_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 18:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-21 11:33:58 +0000"
@@ -654,6 +660,12 @@
       "bred_sheep": "2025-02-23 17:01:31 +0000"
     },
     "done": false
+  },
+  "ic2:recipes/copper_cable_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 18:01:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1143,6 +1155,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-02-19 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "millenaire:explorer": {
+    "criteria": {
+      "explorer": "2025-02-25 18:05:48 +0000"
     },
     "done": true
   },
@@ -1878,15 +1896,20 @@
       "ice_flats": "2025-02-21 11:26:49 +0000",
       "forest": "2025-02-21 11:17:53 +0000",
       "birch_forest": "2025-02-21 11:10:04 +0000",
+      "swampland": "2025-02-25 18:05:33 +0000",
+      "beaches": "2025-02-25 18:05:17 +0000",
       "extreme_hills_with_trees": "2025-02-24 12:24:35 +0000",
       "forest_hills": "2025-02-21 11:19:47 +0000",
       "savanna": "2025-02-19 22:46:52 +0000",
       "plains": "2025-02-19 22:46:09 +0000",
+      "savanna_rock": "2025-02-25 18:11:26 +0000",
       "ice_mountains": "2025-02-21 11:25:45 +0000",
       "birch_forest_hills": "2025-02-21 11:11:03 +0000",
+      "ocean": "2025-02-25 18:05:30 +0000",
       "extreme_hills": "2025-02-22 17:35:43 +0000",
       "roofed_forest": "2025-02-19 22:37:10 +0000",
-      "river": "2025-02-21 11:17:50 +0000"
+      "river": "2025-02-21 11:17:50 +0000",
+      "stone_beach": "2025-02-25 18:05:15 +0000"
     },
     "done": false
   },
@@ -2169,6 +2192,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 23:29:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:basic/buildcable": {
+    "criteria": {
+      "has_item": "2025-02-25 18:01:14 +0000"
     },
     "done": true
   },

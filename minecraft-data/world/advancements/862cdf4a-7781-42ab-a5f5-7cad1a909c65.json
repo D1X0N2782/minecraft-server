@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-25 18:34:53 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/carbon_plate_recipes": {
     "criteria": {
       "has_item": "2025-02-22 16:12:30 +0000"
