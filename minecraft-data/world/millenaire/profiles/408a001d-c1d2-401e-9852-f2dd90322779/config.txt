@@ -1,0 +1,14 @@
+player_name=SMS_79
+donation_mode=false
+culture_reputation=mayan,3
+culture_language=mayan,96
+village_reputations=496/71/222,65
+village_diplomacy=4706/71/162,5
+village_diplomacy=-2182/68/264,5
+village_diplomacy=-2671/64/610,5
+village_diplomacy=409/73/42,5
+village_diplomacy=-523/74/-676,5
+village_diplomacy=-1669/70/-106,5
+village_diplomacy=496/71/222,5
+village_diplomacy=29/66/-317,5
+village_diplomacy=622/76/-159,5

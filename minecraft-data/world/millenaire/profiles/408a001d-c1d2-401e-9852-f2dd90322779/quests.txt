@@ -1,0 +1,2 @@
+quest:bonefetch;step:0;startTime:8982000;currentStepStartTime:8982000;villager:startvillager,7935139631841117646,4706/71/162;villager:wife,7844916245014303622,4706/71/162
+quest:thehunt;step:0;startTime:8982000;currentStepStartTime:8982000;villager:startvillager,9200109112945513059,4706/71/162

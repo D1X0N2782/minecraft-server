@@ -1,151 +1,35 @@
-[12Jan2024 22:51:10.166] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.2.0, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
-[12Jan2024 22:51:10.174] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.9 by Eclipse Adoptium; OS Linux arch amd64 version 5.15.0-91-generic
-[12Jan2024 22:51:10.419] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/data/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[12Jan2024 22:51:10.970] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/fmlcore/1.19.4-45.2.0/fmlcore-1.19.4-45.2.0.jar is missing mods.toml file
-[12Jan2024 22:51:10.975] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.2.0/javafmllanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[12Jan2024 22:51:10.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.2.0/lowcodelanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[12Jan2024 22:51:10.984] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /data/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar is missing mods.toml file
-[12Jan2024 22:51:11.164] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[12Jan2024 22:51:14.627] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[12Jan2024 22:51:29.791] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.2.0, for MC 1.19.4 with MCP 20230314.122934
-[12Jan2024 22:51:29.799] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.2.0 Initialized
-[12Jan2024 22:51:31.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Jan2024 22:51:33.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 45.2.0 Target: null
-[12Jan2024 22:51:36.383] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Jan2024 22:51:38.095] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%2399!/assets/.mcassetsroot' uses unexpected schema
-[12Jan2024 22:51:38.097] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/data/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%2399!/data/.mcassetsroot' uses unexpected schema
-[12Jan2024 22:51:41.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[12Jan2024 22:51:42.839] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
-[12Jan2024 22:51:43.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[12Jan2024 22:51:43.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Jan2024 22:51:43.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Jan2024 22:51:43.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Jan2024 22:51:44.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Jan2024 22:51:44.195] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Jan2024 22:51:44.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Jan2024 22:51:45.753] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:51:50.866] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:51:52.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Jan2024 22:51:56.015] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:01.848] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:01.849] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:07.531] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:09.972] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:12.678] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[12Jan2024 22:52:12.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.979] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.980] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.981] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.993] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.997] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.998] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:12.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.004] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.009] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.013] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.014] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.037] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.038] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.049] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:13.871] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:14.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:15.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Jan2024 22:52:15.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[12Jan2024 22:52:15.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[12Jan2024 22:52:16.342] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 23972 ms
-[12Jan2024 22:52:16.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.945s)! For help, type "help"
-[12Jan2024 22:52:16.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
-[12Jan2024 22:52:16.352] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
-[12Jan2024 22:52:16.352] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
-[12Jan2024 22:52:16.377] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Jan2024 22:52:18.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[12Jan2024 22:52:49.581] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SMS_79 is 408a001d-c1d2-401e-9852-f2dd90322779
-[12Jan2024 22:52:49.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SMS_79[/185.165.251.12:13915] logged in with entity id 401 at (-17.26786791249866, -38.0, -37.66541602575476)
-[12Jan2024 22:52:49.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMS_79 joined the game
-[12Jan2024 22:52:52.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[12Jan2024 22:52:55.308] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50725: Failed to verify username!
-[12Jan2024 22:52:55.311] [User Authenticator #2/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:52:55.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50725 lost connection: Failed to verify username!
-[12Jan2024 22:54:34.484] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50741: Failed to verify username!
-[12Jan2024 22:54:34.486] [User Authenticator #3/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:54:34.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50741 lost connection: Failed to verify username!
-[12Jan2024 22:55:39.246] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50753: Failed to verify username!
-[12Jan2024 22:55:39.248] [User Authenticator #4/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:55:39.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50753 lost connection: Failed to verify username!
-[12Jan2024 22:55:42.219] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50755: Failed to verify username!
-[12Jan2024 22:55:42.220] [User Authenticator #5/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:55:42.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50755 lost connection: Failed to verify username!
-[12Jan2024 22:55:47.849] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@133e5537[id=<null>,name=WatoO0,properties={},legacy=false] (/85.55.25.31:50756) lost connection: Disconnected
-[12Jan2024 22:55:56.416] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50758: Failed to verify username!
-[12Jan2024 22:55:56.417] [User Authenticator #6/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:55:56.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50758 lost connection: Failed to verify username!
-[12Jan2024 22:56:03.922] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50765: Failed to verify username!
-[12Jan2024 22:56:03.923] [User Authenticator #7/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:56:03.939] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50765 lost connection: Failed to verify username!
-[12Jan2024 22:57:07.547] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50770: Failed to verify username!
-[12Jan2024 22:57:07.548] [User Authenticator #8/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:57:07.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50770 lost connection: Failed to verify username!
-[12Jan2024 22:57:41.796] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50773: Failed to verify username!
-[12Jan2024 22:57:41.797] [User Authenticator #9/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 22:57:41.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50773 lost connection: Failed to verify username!
-[12Jan2024 22:57:54.236] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
-[12Jan2024 22:57:55.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:51826] logged in with entity id 1025 at (-125.40118579832054, 64.0, 102.88319800831184)
-[12Jan2024 22:57:55.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
-[12Jan2024 22:57:58.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
-[12Jan2024 22:57:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
-[12Jan2024 22:58:05.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SMS_79 lost connection: Disconnected
-[12Jan2024 22:58:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMS_79 left the game
-[12Jan2024 22:58:05.376] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[12Jan2024 22:58:27.185] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
-[12Jan2024 22:58:28.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PerdigonGamer[/90.173.157.18:51840] logged in with entity id 1148 at (-125.40118579832054, 64.0, 102.88319800831184)
-[12Jan2024 22:58:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer joined the game
-[12Jan2024 22:58:31.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PerdigonGamer lost connection: Disconnected
-[12Jan2024 22:58:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PerdigonGamer left the game
-[12Jan2024 23:04:51.088] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50863: Failed to verify username!
-[12Jan2024 23:04:51.089] [User Authenticator #12/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 23:04:51.129] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50863 lost connection: Failed to verify username!
-[12Jan2024 23:05:32.589] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /85.55.25.31:50865: Failed to verify username!
-[12Jan2024 23:05:32.590] [User Authenticator #13/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'WatoO0' tried to join with an invalid session
-[12Jan2024 23:05:32.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /85.55.25.31:50865 lost connection: Failed to verify username!
-[12Jan2024 23:07:33.721] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
-[12Jan2024 23:07:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rcon: Stopping the server]
-[12Jan2024 23:07:33.735] [RCON Client /127.0.0.1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
-[12Jan2024 23:07:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Jan2024 23:07:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Jan2024 23:07:33.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Jan2024 23:07:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Jan2024 23:07:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Jan2024 23:07:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Jan2024 23:07:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Jan2024 23:07:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Jan2024 23:07:35.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Jan2024 23:07:35.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12Jan2024 23:07:35.899] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped
+[07:38:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 42513009ms behind, skipping 850260 tick(s)
+[07:38:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Timed out
+[07:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[07:38:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _Zonte lost connection: Timed out
+[07:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte left the game
+[07:39:01] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[07:39:01] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:39:01] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[07:39:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:39:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:60112] logged in with entity id 38349 at (981.907618521739, 54.0, -186.8393449089187)
+[07:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[07:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PerdigonGamer: Set own game mode to Creative Mode]
+[07:39:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -2.4429250147575203,-5.622519858334854,8.116439473426908
+[07:39:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[07:39:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[07:40:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:40:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:40:02] [RCON Client #7/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[07:42:07] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:42:07] [RCON Client #8/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon: Stopping the server]
+[07:42:07] [Server thread/INFO] [icbmclassic]: Stopping threads
+[07:42:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:42:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:42:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[07:42:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[07:42:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[07:42:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[07:42:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[07:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -29
+[07:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -30
+[07:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -31
+[07:42:08] [Server thread/INFO] [GalacticraftCore]: Unregistered Dimension: -28
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:42:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

@@ -1,0 +1,139 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  MicdoodlePlugin (Galacticraft-1.12.2-4.0.6.jar)
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+Contact their authors BEFORE contacting forge
+
+// Shall we play a game?
+
+Time: 2/18/25 9:16 PM
+Description: Exception in server tick loop
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from ICBM-Classic (icbmclassic)
+Caused by: java.lang.RuntimeException: ExplosiveRegistry: Unexpected error reading explosive registry save, File: /data/config/icbmclassic/explosive_reg.json
+	at icbm.classic.lib.explosive.reg.ExplosiveRegistry.loadReg(ExplosiveRegistry.java:241)
+	at icbm.classic.ICBMClassic.handleExRegistry(ICBMClassic.java:221)
+	at icbm.classic.ICBMClassic.preInit(ICBMClassic.java:206)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.RuntimeException: ExplosiveRegistry: Duplicate registry detected with mismatching registry names for ID[24].   Current: icbmclassic:mutation  New: icbmclassic:missile
+	at icbm.classic.lib.explosive.reg.ExplosiveRegistry.checkDuplicate(ExplosiveRegistry.java:275)
+	at icbm.classic.lib.explosive.reg.ExplosiveRegistry.loadReg(ExplosiveRegistry.java:262)
+	at icbm.classic.lib.explosive.reg.ExplosiveRegistry.loadReg(ExplosiveRegistry.java:232)
+	... 37 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.11.2-amd64
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 3849201136 bytes (3670 MB) / 4142399488 bytes (3950 MB) up to 4142399488 bytes (3950 MB)
+	JVM Flags: 2 total; -Xmx4G -Xms4G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2859 31 mods loaded, 31 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version               | Source                                        | Signature                                |
+	|:----- |:------------------- |:--------------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCH   | minecraft           | 1.12.2                | minecraft.jar                                 | None                                     |
+	| LCH   | mcp                 | 9.42                  | minecraft.jar                                 | None                                     |
+	| LCH   | FML                 | 8.0.99.99             | forge-1.12.2-14.23.5.2859.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | forge               | 14.23.5.2859          | forge-1.12.2-14.23.5.2859.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCH   | micdoodlecore       | 4.0.6                 | minecraft.jar                                 | None                                     |
+	| LCH   | bettercaves         | 1.12.2                | bettercaves-1.12.2-2.0.4.jar                  | None                                     |
+	| LCH   | bettermineshafts    | 1.12.2-2.2.1          | BetterMineshaftsForge-1.12.2-2.2.1.jar        | None                                     |
+	| LCH   | betternether        | 0.1.8.6               | betternether-0.1.8.6.jar                      | None                                     |
+	| LCH   | biomesoplenty       | 7.0.1.2444            | BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar | None                                     |
+	| LCH   | chameleon           | 1.12-4.1.3            | Chameleon-1.12-4.1.3.jar                      | None                                     |
+	| LCH   | falling_tree        | 2.4.0                 | FallingTree-1.12.2-2.4.0.jar                  | None                                     |
+	| LCH   | galacticraftcore    | 4.0.6                 | Galacticraft-1.12.2-4.0.6.jar                 | None                                     |
+	| LCH   | galacticraftplanets | 4.0.6                 | Galacticraft-1.12.2-4.0.6.jar                 | None                                     |
+	| LCH   | geckolib3           | 3.0.30                | geckolib-forge-1.12.2-3.0.31.jar              | None                                     |
+	| LCH   | ic2                 | 2.8.1001              | IC2Classic-1.12.2-1.5.11.jar                  | None                                     |
+	| LCH   | ic2-classic-spmod   | 0.0.0.0               | IC2Classic-1.12.2-1.5.11.jar                  | None                                     |
+	| LCE   | icbmclassic         | 1.12.2-4.0.1.75       | ICBM-classic-1.12.2-4.0.1b75.jar              | None                                     |
+	| LC    | ironchest           | 1.12.2-7.0.67.844     | ironchest-1.12.2-7.0.72.847.jar               | None                                     |
+	| LC    | jei                 | 4.16.1.1012           | jei_1.12.2-4.16.1.1012.jar                    | None                                     |
+	| LC    | malisiscore         | 1.12.2-6.5.1-SNAPSHOT | malisiscore-1.12.2-6.5.1.jar                  | None                                     |
+	| LC    | malisisdoors        | 1.12.2-7.3.0          | malisisdoors-1.12.2-7.3.0.jar                 | None                                     |
+	| LC    | mantle              | 1.12-1.3.3.55         | Mantle-1.12-1.3.3.55.jar                      | None                                     |
+	| LC    | millenaire          | Millénaire 8.1.2      | millenaire-8.1.2.jar                          | None                                     |
+	| LC    | llibrary            | 1.7.20                | llibrary-1.7.20-1.12.2.jar                    | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+	| LC    | mowziesmobs         | 1.5.8                 | mowziesmobs_1.12.2_1.5.8.jar                  | None                                     |
+	| LC    | spartanweaponry     | 1.6.0                 | SpartanWeaponry-1.12.2-1.6.0.jar              | None                                     |
+	| LC    | storagedrawers      | 5.5.3                 | StorageDrawers-1.12.2-5.5.3.jar               | None                                     |
+	| LC    | tconstruct          | 1.12.2-2.13.0.183     | TConstruct-1.12.2-2.13.0.183.jar              | None                                     |
+	| LC    | travelersbackpack   | 1.0.35                | TravelersBackpack-1.12.2-1.0.35.jar           | None                                     |
+	| LC    | waystones           | 4.1.0                 | Waystones_1.12.2-4.1.0.jar                    | None                                     |
+	| LC    | ironagefurniture    | 0.2.0.5               | ironagefurniture 1.12.2 v0.2.0.5.jar          | None                                     |
+
+	Loaded coremods (and transformers): 
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+MicdoodlePlugin (Galacticraft-1.12.2-4.0.6.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  
+MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

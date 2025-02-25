@@ -1,0 +1,17 @@
+player_name=tomoya4000
+donation_mode=false
+culture_reputation=japanese,-6
+culture_reputation=mayan,-302
+culture_language=japanese,3
+village_reputations=1577/75/-504,-96
+village_reputations=953/77/-144,-720
+village_reputations=1915/78/-399,25
+village_reputations=622/76/-159,-2300
+village_diplomacy=4706/71/162,5
+village_diplomacy=1577/75/-504,5
+village_diplomacy=1470/83/175,5
+village_diplomacy=4529/68/-445,5
+village_diplomacy=1054/79/681,5
+village_diplomacy=-523/74/-676,5
+village_diplomacy=496/71/222,5
+village_diplomacy=622/76/-159,5

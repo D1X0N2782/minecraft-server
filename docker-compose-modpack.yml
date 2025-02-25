@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  mc:
+    container_name: walkercraft
+    image: itzg/minecraft-server:java8-jdk
+    ports:
+      - 25565:25565
+    environment:
+      EULA: "TRUE"
+      VERSION: "1.12.2"
+      MODPACK_PLATFORM: AUTO_CURSEFORGE
+      CF_API_KEY: $$2a$$10$$P1jk5rYFroEfhZB8oNjG9Oazqi6GarkIF3UnItfznJRbFGnXBVMaS
+      CF_SLUG: ancient-warfare-horizons
+      CF_MODPACK_ZIP: /modpacks/RL.zip
+      CF_SET_LEVEL_FROM: OVERRIDES
+      ENABLE_WHITELIST: "FALSE"
+      ENFORCE_WHITELIST: "FALSE"
+      DEBUG: "false"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    ports:
+      - 25565:25565
+    volumes:
+      - ./minecraft-data:/data
+      - ./modpacks:/modpacks:ro
+
+volumes:
+  minecraft-data: {}
