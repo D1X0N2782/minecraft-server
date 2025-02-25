@@ -6,10 +6,6 @@ fecha=$(date "+%Y-%m-%d %H:%M:%S")
 # Cambiar al directorio del repositorio
 cd /home/kali/minecraft-server || exit
 
-# Verifica el estado actual del repositorio
-echo "Actualizando cambios locales..."
-git pull origin kali --rebase
-
 # Añadir todos los cambios, incluidos archivos eliminados
 git add -A
 

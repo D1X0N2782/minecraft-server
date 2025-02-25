@@ -3249,3 +3249,8 @@
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
 	at java.lang.Thread.run(Thread.java:748)
 
+8.1.2 25-02-2025 08:36:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:36:50 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:37:10 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:37:15 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:39:59 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
