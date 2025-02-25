@@ -12513,3 +12513,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [19:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 left the game
 [19:55:55] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 [19:56:00] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[20:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[20:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[20:00:01] [RCON Client #31/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, parece que los esqueletos te quieren más que nosotros.
+[20:09:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -10.10383510744225,-1.6924911557449605,-1.5276005214694948
+[20:42:04] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[20:42:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -4.363320956109646,3.7847345775693526,8.184219508687008
+[20:50:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[20:52:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 7.722423494238001,5.87962231527591,2.8856793326243064
+[20:52:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 9.346020800098131,0.8584356492024199,3.8319207226898584
+[20:52:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[20:54:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 3.9486486989002287,-8.761111956954522,-2.9154234404570047

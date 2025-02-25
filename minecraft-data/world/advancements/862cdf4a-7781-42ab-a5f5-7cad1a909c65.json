@@ -224,6 +224,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ultra-low-current_cable_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 20:04:11 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/ingotbronze_recipes": {
     "criteria": {
       "has_item_0": "2025-02-23 10:17:55 +0000"
@@ -882,6 +888,12 @@
   "millenaire:explorer": {
     "criteria": {
       "explorer": "2025-02-17 15:50:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/luminator_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 20:04:11 +0000"
     },
     "done": true
   },
@@ -1848,6 +1860,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 15:03:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/dense_copper_plate_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 20:06:32 +0000"
     },
     "done": true
   },
@@ -3111,6 +3129,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-02-17 12:59:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/advanced_heat_exchanger_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 20:08:18 +0000"
     },
     "done": true
   },
