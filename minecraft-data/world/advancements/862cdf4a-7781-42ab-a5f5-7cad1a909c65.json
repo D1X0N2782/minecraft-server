@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "ic2:basic/buildelecfurnace": {
+    "criteria": {
+      "has_item": "2025-02-25 15:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-19 21:05:26 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-17 12:56:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/overclocker_upgrade_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 15:14:11 +0000"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
     },
     "done": true
   },
+  "ic2:basic/acquirematter": {
+    "criteria": {
+      "has_item": "2025-02-25 15:15:54 +0000"
+    },
+    "done": true
+  },
   "ironagefurniture:recipes/chair_wood_ironage_classic_spruce": {
     "criteria": {
       "has_rock": "2025-02-22 16:26:15 +0000"
@@ -473,6 +491,12 @@
   "ic2:recipes/low_voltage_solar_panel_(lv)_recipes": {
     "criteria": {
       "has_item": "2025-02-23 22:28:46 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/electric_furnace_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 15:31:24 +0000"
     },
     "done": true
   },
@@ -681,6 +705,12 @@
     },
     "done": true
   },
+  "ic2:recipes/uu-matter_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 15:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-17 15:51:46 +0000"
@@ -849,6 +879,12 @@
     },
     "done": true
   },
+  "ic2:recipes/empty_cell_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 15:12:24 +0000"
+    },
+    "done": true
+  },
   "ic2:basic/factorygiant": {
     "criteria": {
       "has_stat": "2025-02-23 10:59:45 +0000"
@@ -984,6 +1020,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-19 21:05:26 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/dusttin_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 16:38:03 +0000"
     },
     "done": true
   },
@@ -1128,6 +1170,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-17 12:57:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/dustcopper_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 15:37:57 +0000"
     },
     "done": true
   },
@@ -2019,6 +2067,12 @@
     },
     "done": true
   },
+  "ic2:recipes/10k_coolant_cell_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 16:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 15:03:40 +0000"
@@ -2348,6 +2402,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2025-02-19 15:41:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/water_cell_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 15:12:34 +0000"
     },
     "done": true
   },

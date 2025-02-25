@@ -1,2 +1,0 @@
-quest:fallenking_1_firstomens;step:0;startTime:10344000;currentStepStartTime:10344000;villager:localleader,6904733397856357171,496/71/222;villager:localshaman,2747793168928358611,496/71/222
-quest:watersample;step:0;startTime:11213000;currentStepStartTime:11213000;villager:startvillager,5752581459917904021,622/76/-159

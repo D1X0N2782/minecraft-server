@@ -14,7 +14,7 @@ services:
       ENFORCE_WHITELIST: "FALSE"
       MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "true"
-      MEMORY: 6G
+      MEMORY: 8G
     tty: true
     stdin_open: true
     restart: unless-stopped

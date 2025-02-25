@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nombre del contenedor Docker que ejecuta el servidor de Minecraft
-DOCKER_CONTAINER="2ea"
+DOCKER_CONTAINER="138"
 
 # Frases predefinidas
 FRASES=(

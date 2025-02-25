@@ -3283,3 +3283,123 @@
 8.1.2 25-02-2025 14:48:33 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
 8.1.2 25-02-2025 14:55:10 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
 8.1.2 25-02-2025 14:55:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:05:53 Starting new session. Mods: examplemod 
+8.1.2 25-02-2025 15:06:01 MAJOR: null: Loading language: fr
+8.1.2 25-02-2025 15:06:01 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 25-02-2025 15:06:01 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 25-02-2025 15:06:02 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 25-02-2025 15:06:05 ERROR: (thmosque_A0 at 33/66/-315/0/0/1228685285/Danalı-Yanar/net.minecraft.world.WorldServer@33043edd): Error when trying to load building of type: thmosque_A0 at 33/66/-315/0/0/1228685285
+8.1.2 25-02-2025 15:06:05 Exception, printing stack:
+8.1.2 25-02-2025 15:06:05 java.lang.NullPointerException
+	at org.millenaire.common.buildingplan.BuildingPlan.updateTags(BuildingPlan.java:3233)
+	at org.millenaire.common.village.Building.readFromNBT(Building.java:5262)
+	at org.millenaire.common.village.Building.<init>(Building.java:816)
+	at org.millenaire.common.world.MillWorldData.loadBuildings(MillWorldData.java:609)
+	at org.millenaire.common.world.MillWorldData.loadData(MillWorldData.java:643)
+	at org.millenaire.common.forge.MillEventController.worldLoaded(MillEventController.java:276)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_306_MillEventController_worldLoaded_Load.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+8.1.2 25-02-2025 15:08:08 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:08:13 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:08:19 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:08:24 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:08:29 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:08:34 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:09:13 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:09:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:09:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:09:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:09:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:10:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:11:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:12:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:13:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:14:02 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:19:23 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:22:03 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:22:17 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:22:22 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:22:27 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:22:32 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:23:28 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:23:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:26:04 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:31:40 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:31:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:31:50 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:31:55 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:32:13 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:32:18 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:32:24 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:32:55 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:33:00 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:33:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:34:50 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:34:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:35:24 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:35:29 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:35:34 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 15:56:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:01:48 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:24:53 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:32:04 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:39:14 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:40:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:44:12 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:44:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:54:40 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:54:53 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:55:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:55:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:56:17 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:56:32 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:56:37 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 16:58:18 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 17:00:49 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160

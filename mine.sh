@@ -4,7 +4,7 @@
 fecha=$(date "+%Y-%m-%d %H:%M:%S")
 
 # Cambiar al directorio del repositorio
-cd /home/kali/minecraft-server || exit
+cd /home/minecraft-server || exit
 
 # Añadir todos los cambios, incluidos archivos eliminados
 git add -A
