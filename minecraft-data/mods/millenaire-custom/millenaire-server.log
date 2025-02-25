@@ -3203,3 +3203,27 @@
 8.1.2 24-02-2025 19:37:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@322ed86a: No TileEntitySign at: 923/73/-160
 8.1.2 24-02-2025 19:38:02 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@322ed86a: No TileEntitySign at: 923/73/-160
 8.1.2 24-02-2025 19:40:05 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@322ed86a: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:07:30 Starting new session. Mods: examplemod 
+8.1.2 25-02-2025 08:07:40 MAJOR: null: Loading language: fr
+8.1.2 25-02-2025 08:07:40 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 25-02-2025 08:07:40 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 25-02-2025 08:07:40 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 25-02-2025 08:07:44 ERROR: (thmosque_A0 at 33/66/-315/0/0/745693221/Danalı-Yanar/net.minecraft.world.WorldServer@5eb87398): Error when trying to load building of type: thmosque_A0 at 33/66/-315/0/0/745693221
+8.1.2 25-02-2025 08:07:44 Exception, printing stack:
+8.1.2 25-02-2025 08:07:44 java.lang.NullPointerException
+	at org.millenaire.common.buildingplan.BuildingPlan.updateTags(BuildingPlan.java:3233)
+	at org.millenaire.common.village.Building.readFromNBT(Building.java:5262)
+	at org.millenaire.common.village.Building.<init>(Building.java:816)
+	at org.millenaire.common.world.MillWorldData.loadBuildings(MillWorldData.java:609)
+	at org.millenaire.common.world.MillWorldData.loadData(MillWorldData.java:643)
+	at org.millenaire.common.forge.MillEventController.worldLoaded(MillEventController.java:276)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_302_MillEventController_worldLoaded_Load.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+8.1.2 25-02-2025 08:09:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2dfdd3bb: No TileEntitySign at: 923/73/-160
+8.1.2 25-02-2025 08:09:59 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2dfdd3bb: No TileEntitySign at: 923/73/-160
