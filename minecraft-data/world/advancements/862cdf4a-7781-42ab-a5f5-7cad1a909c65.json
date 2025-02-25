@@ -2915,6 +2915,12 @@
     },
     "done": true
   },
+  "ic2:recipes/medium_voltage_solar_panel_(mv)_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 17:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-17 12:56:19 +0000"

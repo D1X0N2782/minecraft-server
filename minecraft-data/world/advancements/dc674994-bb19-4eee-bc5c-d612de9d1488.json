@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotrefinediron_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 17:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-19 22:47:16 +0000"
@@ -827,6 +833,12 @@
     },
     "done": true
   },
+  "ic2:recipes/iron_furnace_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 17:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-02-19 22:38:38 +0000"
@@ -848,6 +860,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-21 11:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-25 17:41:35 +0000"
     },
     "done": true
   },
@@ -1272,6 +1290,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dustcoal_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 17:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 11:25:52 +0000"
@@ -1681,6 +1705,12 @@
     },
     "done": true
   },
+  "ic2:recipes/itemrubber_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 17:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-22 15:15:30 +0000"
@@ -1732,6 +1762,12 @@
   "ic2:recipes/ingotcopper_recipes": {
     "criteria": {
       "has_item_0": "2025-02-24 19:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-25 17:41:35 +0000"
     },
     "done": true
   },
@@ -1822,6 +1858,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-02-19 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/rubber_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 17:51:29 +0000"
     },
     "done": true
   },
@@ -2019,6 +2061,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-23 21:43:49 +0000"
+    },
+    "done": true
+  },
+  "ic2:basic/acquirerefinediron": {
+    "criteria": {
+      "has_item": "2025-02-25 17:54:07 +0000"
     },
     "done": true
   },
