@@ -12163,3 +12163,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [08:50:01] [RCON Client #7/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] UN ENDERMAN ME HA ROBADO UN BLOQUE Y MI CORDURA CON ÉL
 [08:50:37] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
 [08:50:41] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[08:55:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[08:55:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[08:57:10] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
