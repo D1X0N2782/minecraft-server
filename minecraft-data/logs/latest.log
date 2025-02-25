@@ -12524,3 +12524,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [20:52:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 9.346020800098131,0.8584356492024199,3.8319207226898584
 [20:52:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 [20:54:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 3.9486486989002287,-8.761111956954522,-2.9154234404570047
+[21:02:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.202990479604182,0.8797445251096434,6.9139771890500015
+[21:18:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.791503794412506,-6.878456047398558,1.7238363150738962
+[21:20:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -6.403545478715387,6.000000238418579,5.520930361798335
+[21:23:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.12218834430621,-4.596709766337327,-6.059022390497802
+[21:36:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 3.3637131210138023,-1.093636806443243,9.868109380215657
+[21:38:57] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[21:41:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IImperatore lost connection: Disconnected
+[21:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore left the game
