@@ -12240,3 +12240,32 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [11:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:50:01] [RCON Client #45/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[12:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:00:01] [RCON Client #47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[12:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:10:01] [RCON Client #49/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[12:20:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:20:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:20:01] [RCON Client #51/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[12:30:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:30:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:30:02] [RCON Client #53/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[12:30:26] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IImperatore is 862cdf4a-7781-42ab-a5f5-7cad1a909c65
+[12:30:26] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[12:30:26] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[12:30:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[12:30:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IImperatore[/85.53.110.93:50733] logged in with entity id 34458 at (940.9704045375968, 72.0, -140.13260697743377)
+[12:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore joined the game
+[12:33:47] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[12:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:40:01] [RCON Client #55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, eres tan inútil que te pilla un golem sin moverte.
+[12:43:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore has made the advancement [Super Treetap]
+[12:49:12] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:49:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1f48770c)
+[12:49:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[12:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:50:01] [RCON Client #57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] HE VISTO UN PUEBLO ABANDONADO Y LOS ALDEANOS ERAN YO
