@@ -12128,3 +12128,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [08:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:10:01] [RCON Client #3/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] PerdigonGamer, amigo, los pillagers te invitan a sus fiestas, ¿no?
+[08:12:14] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[08:12:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: You logged in from another location
+[08:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[08:12:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[08:12:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[08:12:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:12:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:60645] logged in with entity id 3395 at (894.9344539866528, 90.0, -128.3392999495356)
+[08:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
