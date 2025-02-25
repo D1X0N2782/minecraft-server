@@ -12269,3 +12269,26 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [12:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:50:01] [RCON Client #57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] HE VISTO UN PUEBLO ABANDONADO Y LOS ALDEANOS ERAN YO
+[13:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:00:01] [RCON Client #59/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, pedazo de mierda, ni con un faro encuentras el camino.
+[13:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:10:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:10:01] [RCON Client #61/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] MIS PASOS RESUENAN COMO SI ALGUIEN ME SIGUIERA ESTOY PARANOICO
+[13:20:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:20:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:20:02] [RCON Client #63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, colega, parece que los creepers te siguen por diversión.
+[13:30:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:30:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:30:01] [RCON Client #65/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, amigo, parece que los creepers te tienen cariño especial.
+[13:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:40:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:40:01] [RCON Client #67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] IImperatore, hijo de puta, juega en creativo a ver si así no mueres tanto.
+[13:43:19] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[13:43:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -4.456109738470332,7.264796199012878,-6.275718862914033
+[13:47:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[13:47:42] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160
+[13:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:50:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:50:01] [RCON Client #69/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] MIS PASOS RESUENAN COMO SI ALGUIEN ME SIGUIERA ESTOY PARANOICO
+[13:51:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@37552635: No TileEntitySign at: 923/73/-160

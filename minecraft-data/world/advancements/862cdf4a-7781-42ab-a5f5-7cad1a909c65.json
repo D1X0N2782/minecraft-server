@@ -771,6 +771,12 @@
     },
     "done": true
   },
+  "ic2:recipes/glass_fibre_cable_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 13:19:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-17 15:51:46 +0000"
@@ -1521,6 +1527,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotsilver_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-25 13:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-02-17 12:56:19 +0000"
@@ -2184,6 +2196,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-17 12:59:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/hopper_recipes": {
+    "criteria": {
+      "has_item": "2025-02-25 13:59:16 +0000"
     },
     "done": true
   },
