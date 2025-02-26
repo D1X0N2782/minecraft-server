@@ -1697,6 +1697,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2025-02-26 18:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-17 15:52:57 +0000"

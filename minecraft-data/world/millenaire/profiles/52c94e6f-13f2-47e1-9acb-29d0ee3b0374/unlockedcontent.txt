@@ -1,4 +1,5 @@
 villager:japanese_japanese_samurai
+villager:byzantines_smelter_byzantine
 villager:mayan_mayan_leader
 villager:mayan_mayan_merchant
 villager:mayan_merchant_mayanfarmer
@@ -135,6 +136,7 @@ building:seljuk_mosque
 building:mayan_mayanplayersmallfield
 building:mayan_mayanhouse
 building:inuits_borderpost_corner
+building:byzantines_sheepfarm
 building:seljuk_full_wall_tower
 building:inuits_grove
 building:japanese_japaneselmh

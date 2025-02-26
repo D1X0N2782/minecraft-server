@@ -1,10 +1,10 @@
 player_name=_Zonte
 donation_mode=false
 culture_reputation=japanese,-160
-culture_reputation=byzantines,-360
+culture_reputation=byzantines,-380
 culture_reputation=mayan,-640
 village_reputations=1577/75/-504,-1600
-village_reputations=1470/83/175,-3600
+village_reputations=1470/83/175,-3800
 village_reputations=953/77/-144,-19133
 village_diplomacy=4706/71/162,5
 village_diplomacy=1577/75/-504,5
