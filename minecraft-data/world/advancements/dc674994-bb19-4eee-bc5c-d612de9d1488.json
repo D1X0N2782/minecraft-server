@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "ic2:recipes/nano_tool_box_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 16:37:44 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/ingotiron_recipes": {
     "criteria": {
       "has_item_0": "2025-02-21 10:54:25 +0000"
@@ -434,6 +440,12 @@
       "heavy_tank": "2025-02-26 00:44:39 +0000"
     },
     "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-26 16:52:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
@@ -2003,6 +2015,12 @@
     },
     "done": true
   },
+  "ic2:recipes/lava_bucket_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 16:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-21 10:55:53 +0000"
@@ -2097,6 +2115,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-23 21:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-26 16:32:54 +0000"
     },
     "done": true
   },
@@ -2217,6 +2241,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-02-21 11:11:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/compacted_jetpack_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 16:27:00 +0000"
     },
     "done": true
   },

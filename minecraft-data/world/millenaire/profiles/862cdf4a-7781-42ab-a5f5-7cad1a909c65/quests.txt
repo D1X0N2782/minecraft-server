@@ -1,3 +1,2 @@
 quest:fallenking_1_firstomens;step:0;startTime:13202000;currentStepStartTime:13202000;villager:localleader,6904733397856357171,496/71/222;villager:localshaman,2747793168928358611,496/71/222
-quest:thehunt;step:0;startTime:13236000;currentStepStartTime:13236000;villager:startvillager,9200109112945513059,4706/71/162
-quest:fishingfrenzy;step:0;startTime:13236000;currentStepStartTime:13236000;villager:startvillager,6039147862964999198,4706/71/162;villager:wife,943733550323181493,4706/71/162
+quest:watersample;step:0;startTime:13401000;currentStepStartTime:13401000;villager:startvillager,5752581459917904021,622/76/-159

@@ -49,6 +49,7 @@ village:mayan_agriculture
 village:byzantines_militaryvillage
 village:byzantines_lonesheepfarm_x
 village:mayan_mayan_controlled
+village:inuits_lonedislogcabin2
 building:byzantines_woodcutter
 building:byzantines_acaciagrove
 building:mayan_mayanlargepeasanthouse
@@ -90,6 +91,7 @@ building:mayan_mayancrafter
 building:mayan_mayanarmyforge
 building:byzantines_architect
 building:byzantines_fortress
+building:inuits_lonedislogcabin2
 building:seljuk_borderpost
 building:byzantines_workshop
 building:mayan_mayangrove

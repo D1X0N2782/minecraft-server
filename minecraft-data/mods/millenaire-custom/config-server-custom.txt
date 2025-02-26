@@ -44,6 +44,6 @@ random_uid=7446913261646605312
 advancements_creative=explorer,marcopolo
 
 //Advancement completed for anonymous statistics
-advancements_survival=firstcontact,cresus,summoningwand,explorer,marcopolo,selfdefense,darkside,scipio,cheers,hired,friendindeed,rep_mayan,complete_mayan,leader_mayan
+advancements_survival=firstcontact,cresus,summoningwand,explorer,marcopolo,selfdefense,darkside,scipio,cheers,hired,friendindeed,mp_weapon,rep_mayan,complete_mayan,leader_mayan
 
-validation=346191435
+validation=346191466

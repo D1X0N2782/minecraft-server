@@ -1,3 +1,0 @@
-quest:thehunt;step:0;startTime:13236000;currentStepStartTime:13236000;villager:startvillager,7166804218916279430,4706/71/162
-quest:thehunt;step:0;startTime:13236000;currentStepStartTime:13236000;villager:startvillager,128768409598106598,4706/71/162
-quest:fishingfrenzy;step:0;startTime:13236000;currentStepStartTime:13236000;villager:startvillager,6039147862964999198,4706/71/162;villager:wife,943733550323181493,4706/71/162

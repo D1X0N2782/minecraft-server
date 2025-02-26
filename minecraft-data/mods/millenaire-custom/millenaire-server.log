@@ -3462,3 +3462,59 @@
 8.1.2 26-02-2025 14:56:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 8.1.2 26-02-2025 14:57:47 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 8.1.2 26-02-2025 14:57:52 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:04:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:06:10 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:06:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:30:42 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:30:48 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:30:52 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:30:57 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:33:09 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:36:23 Starting new session. Mods: examplemod 
+8.1.2 26-02-2025 15:36:32 MAJOR: null: Loading language: fr
+8.1.2 26-02-2025 15:36:32 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 26-02-2025 15:36:32 ERROR: null: Git conflict lines present in /data/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 26-02-2025 15:36:32 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 26-02-2025 15:36:36 ERROR: (thmosque_A0 at 33/66/-315/0/0/1171657227/Danalı-Yanar/net.minecraft.world.WorldServer@153f0082): Error when trying to load building of type: thmosque_A0 at 33/66/-315/0/0/1171657227
+8.1.2 26-02-2025 15:36:36 Exception, printing stack:
+8.1.2 26-02-2025 15:36:36 java.lang.NullPointerException
+	at org.millenaire.common.buildingplan.BuildingPlan.updateTags(BuildingPlan.java:3233)
+	at org.millenaire.common.village.Building.readFromNBT(Building.java:5262)
+	at org.millenaire.common.village.Building.<init>(Building.java:816)
+	at org.millenaire.common.world.MillWorldData.loadBuildings(MillWorldData.java:609)
+	at org.millenaire.common.world.MillWorldData.loadData(MillWorldData.java:643)
+	at org.millenaire.common.forge.MillEventController.worldLoaded(MillEventController.java:276)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_306_MillEventController_worldLoaded_Load.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+8.1.2 26-02-2025 15:40:39 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:42:34 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:44:43 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:44:52 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:45:10 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:45:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:53:55 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 15:59:32 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:00:13 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:00:28 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:00:35 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:00:55 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:01:19 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:07:12 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:11:04 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:15:37 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:16:17 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:18:18 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:19:03 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:21:23 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:31:05 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:38:49 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@7e87f197: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@704001ef
+8.1.2 26-02-2025 16:39:43 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@52d35184: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5c14b476
+8.1.2 26-02-2025 16:54:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:55:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+8.1.2 26-02-2025 16:55:34 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
