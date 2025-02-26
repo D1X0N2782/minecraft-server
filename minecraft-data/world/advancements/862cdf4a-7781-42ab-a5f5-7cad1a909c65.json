@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2025-02-25 23:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-02-17 12:54:18 +0000"
@@ -467,6 +473,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-02-17 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/refinery": {
+    "criteria": {
+      "refinery": "2025-02-25 23:58:31 +0000"
     },
     "done": true
   },
@@ -2133,6 +2145,12 @@
     },
     "done": false
   },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2025-02-25 23:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-17 12:57:05 +0000"
@@ -2286,6 +2304,12 @@
   "ic2:recipes/hopper_recipes": {
     "criteria": {
       "has_item": "2025-02-25 13:59:16 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/coal_generator": {
+    "criteria": {
+      "coal_generator": "2025-02-25 23:28:11 +0000"
     },
     "done": true
   },
