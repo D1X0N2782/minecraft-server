@@ -533,6 +533,13 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 17:40:51 +0000",
+      "oxygen_mask": "2025-02-26 17:12:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-02-17 15:33:55 +0000"
@@ -1137,6 +1144,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotcopper_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 17:06:14 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/dark_oak_wood_recipes": {
     "criteria": {
       "has_item": "2025-02-19 14:56:34 +0000"
@@ -1173,6 +1186,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 17:40:51 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-02-19 17:19:41 +0000"
@@ -1182,6 +1201,12 @@
   "ic2:recipes/beetroot_seeds_recipes": {
     "criteria": {
       "has_item": "2025-02-22 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 17:40:51 +0000"
     },
     "done": true
   },
@@ -1251,6 +1276,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-17 15:37:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/ingotsilver_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 17:49:28 +0000"
     },
     "done": true
   },
@@ -1649,6 +1680,12 @@
       "carrot": "2025-02-23 19:29:26 +0000"
     },
     "done": false
+  },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2025-02-26 17:47:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {

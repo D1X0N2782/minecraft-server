@@ -12290,3 +12290,82 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [16:54:16] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
 [16:55:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
 [16:55:34] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[17:00:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[17:00:02] [RCON Client #3/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] PerdigonGamer, amigo, ese pico no cava solo, ¡dale caña!
+[17:00:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[17:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[17:00:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[17:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[17:01:01] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[17:01:01] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[17:01:01] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:01:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:01:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:61225] logged in with entity id 157027 at (894.9924545725411, 13.0, 41.33269003249396)
+[17:01:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[17:01:12] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[17:01:12] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[17:01:12] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:01:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:01:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:53316] logged in with entity id 157474 at (948.3962764138964, 70.0, -131.95957764110761)
+[17:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[17:08:15] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:08:20] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:08:28] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:08:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:08:39] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:08:46] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:14:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:18:10] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[17:18:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _Zonte lost connection: Disconnected
+[17:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte left the game
+[17:18:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:19:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[17:19:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[17:19:15] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[17:19:15] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[17:19:15] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:19:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:19:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:53467] logged in with entity id 179376 at (961.6999999880791, 73.0, -66.69372480226572)
+[17:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[17:20:29] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[17:20:29] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2a477202)
+[17:20:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:23:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:25:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[17:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[17:25:57] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:30:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[17:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[17:31:02] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:37:38] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player _Zonte is 52c94e6f-13f2-47e1-9acb-29d0ee3b0374
+[17:37:38] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[17:37:38] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:37:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:37:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: _Zonte[/79.116.132.75:53192] logged in with entity id 198422 at (945.0516602187423, 88.0, -10.717812054960913)
+[17:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte joined the game
+[17:40:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte has made the advancement [Air 2 Go]
+[17:42:09] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:42:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! -0.024518298218026757,6.600000262260437,8.623369015527324
+[17:42:49] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:46:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! -4.024876898453272,4.893753809227604,-7.926304885776389
+[17:47:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte has made the advancement [Tasty wafers]
+[17:48:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! -2.528947774522976,3.33904789681516,-9.713099012929334
+[17:48:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:50:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IImperatore lost connection: Disconnected
+[17:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore left the game
+[17:53:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[17:53:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2a477202)
+[17:53:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! -9.66641016298695,3.552990793419255,0.7027779443065292
+[17:54:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! 10.020112176385965,1.7707692814826714,0.6138778250376742
+[17:54:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID 0942c82b-6a58-4aba-8b67-eabed1116f60
+[17:54:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! 3918.377782962978,-2.0,0.9254753086934713
+[17:56:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[17:56:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[17:56:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[17:56:48] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:56:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! 817.0802379753966,7.0,-112.10550721413473
+[17:57:12] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:57:17] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:58:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[17:59:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
