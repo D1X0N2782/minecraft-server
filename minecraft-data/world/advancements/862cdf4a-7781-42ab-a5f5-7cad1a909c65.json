@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted": "2025-02-26 00:50:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 13:37:43 +0000"
@@ -668,6 +674,12 @@
       "has_glass": "2025-02-19 21:05:26 +0000"
     },
     "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 00:42:14 +0000"
+    },
+    "done": false
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -1179,6 +1191,12 @@
     },
     "done": true
   },
+  "ic2:recipes/iridium_ore_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 01:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-23 10:11:05 +0000"
@@ -1491,6 +1509,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 00:42:14 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-02-18 15:17:54 +0000"
@@ -1515,6 +1539,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 00:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-20 07:44:11 +0000"
@@ -1536,6 +1566,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-02-17 15:53:00 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2025-02-26 00:18:26 +0000"
     },
     "done": true
   },
@@ -2094,6 +2130,12 @@
   "ic2:recipes/bone_meal_recipes": {
     "criteria": {
       "has_item": "2025-02-22 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_solar": {
+    "criteria": {
+      "advanced_solar": "2025-02-26 00:02:10 +0000"
     },
     "done": true
   },
@@ -3285,6 +3327,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2025-02-24 19:34:08 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2025-02-26 00:31:19 +0000"
     },
     "done": true
   },
