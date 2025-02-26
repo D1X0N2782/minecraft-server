@@ -39,3 +39,6 @@
 [01:11:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IImperatore lost connection: Disconnected
 [01:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore left the game
 [02:00:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[02:00:02] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[02:00:02] [RCON Client #37/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[02:16:06] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Better Nether, Biomes O' Plenty, Chameleon, Falling Tree, Galacticraft, Galacticraft Planets, GeckoLib, IC2 Classic Detection Helper, ICBM-Classic, Industrial Craft Classic, Iron Age Furniture, Iron Chest, LLibrary, MalisisCore, MalisisDoors, Mantle, Millenaire, Mowzie's Mobs, Spartan Weaponry, Storage Drawers, Tinkers' Construct, Traveler's Backpack, Waystones]
