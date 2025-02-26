@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted": "2025-02-26 14:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 13:13:31 +0000"
@@ -457,6 +463,12 @@
       "has_sand": "2025-02-19 21:11:47 +0000"
     },
     "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 14:24:46 +0000"
+    },
+    "done": false
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -1045,6 +1057,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 14:24:46 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-02-17 14:39:50 +0000"
@@ -1054,6 +1072,12 @@
   "spartanweaponry:halberd": {
     "criteria": {
       "craft": "2025-02-17 13:32:28 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2025-02-26 14:24:46 +0000"
     },
     "done": true
   },

@@ -813,6 +813,12 @@
     },
     "done": true
   },
+  "ic2:recipes/batpack_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 14:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-19 11:37:51 +0000"
@@ -1890,6 +1896,12 @@
   "ic2:recipes/lv-transformer_recipes": {
     "criteria": {
       "has_item": "2025-02-23 10:46:33 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/lappack_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 14:46:29 +0000"
     },
     "done": true
   },

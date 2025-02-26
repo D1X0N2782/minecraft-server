@@ -78,3 +78,76 @@
 [13:36:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
 [13:37:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
 [13:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[14:23:06] [User Authenticator #20/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IImperatore is 862cdf4a-7781-42ab-a5f5-7cad1a909c65
+[14:23:06] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[14:23:06] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:23:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:23:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IImperatore[/85.53.110.93:64177] logged in with entity id 470350 at (953.434469152228, 68.0, -139.20028542005292)
+[14:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore joined the game
+[14:23:27] [User Authenticator #21/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[14:23:27] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[14:23:27] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:23:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:23:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:52311] logged in with entity id 470854 at (954.5219551945652, 71.0, -161.75192121047206)
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[14:24:18] [User Authenticator #22/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player _Zonte is 52c94e6f-13f2-47e1-9acb-29d0ee3b0374
+[14:24:18] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[14:24:18] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:24:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:24:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: _Zonte[/79.116.132.75:50794] logged in with entity id 472104 at (237.5, 63.0, 251.5)
+[14:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte joined the game
+[14:24:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[14:24:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[14:24:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[14:24:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 20b24383-33ac-4aaa-9763-0e54d558b0c2
+[14:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has made the advancement [We have a Rocket!]
+[14:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has made the advancement [Air 2 Go]
+[14:25:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -1.2316875981673547,-1.0238878198037042,-10.47176937912667
+[14:26:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.9966738652492495,-5.11425944784682,3.5968644477669756
+[14:26:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:26:17] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:26:22] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.8394692636510399,1.9771223609595552,-10.456162308889816
+[14:26:37] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Better Nether, Biomes O' Plenty, Chameleon, Falling Tree, Galacticraft, Galacticraft Planets, GeckoLib, IC2 Classic Detection Helper, ICBM-Classic, Industrial Craft Classic, Iron Age Furniture, Iron Chest, LLibrary, MalisisCore, MalisisDoors, Mantle, Millenaire, Mowzie's Mobs, Spartan Weaponry, Storage Drawers, Tinkers' Construct, Traveler's Backpack, Waystones]
+[14:26:49] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:27:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -10.085927335165252,0.757002463247801,-2.1407354283618787
+[14:27:22] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:27:27] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:27:32] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:29:24] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:29:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 4.494658983770137,-7.494528854396222,-4.936596760384475
+[14:29:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:30:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: _Zonte lost connection: Disconnected
+[14:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte left the game
+[14:30:14] [User Authenticator #23/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player _Zonte is 52c94e6f-13f2-47e1-9acb-29d0ee3b0374
+[14:30:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 4.293476043025294,-8.18670730152995,4.820496345468939
+[14:30:14] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[14:30:14] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:30:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:30:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: _Zonte[/79.116.132.75:50876] logged in with entity id 482947 at (952.863390274438, 68.0, -138.20070265417942)
+[14:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: _Zonte joined the game
+[14:30:26] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:30:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.5054977245248438,-2.3360578007700923,10.105219657546883
+[14:33:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -3.4997716343405045,0.8893478906862526,-9.526287981921485
+[14:34:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:35:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.856114034280608,7.407188619008124,0.9695470365075707
+[14:39:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -2.363993495932391,1.3845828118082721,10.461104938598325
+[14:46:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -4.027850180107066,-2.6363484054555073,-9.478369312816284
+[14:48:46] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:48:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 1.648133124681749,6.696074058805806,-7.397129291827895
+[14:49:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.17002663365985882,0.9736963288671063,9.953595961439653
+[14:50:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.18577144832659087,-4.228571525748805,9.784628897654912
+[14:51:07] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:51:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.9071077636116343,-5.706065859602063,8.81796026417635
+[14:52:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID 0942c82b-6a58-4aba-8b67-eabed1116f60
+[14:52:36] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (29, 16) should be (32, 13), Chac Uayab Xoc Hunhau/mayan_peasant/2226589973148267919/475/67/257
+[14:52:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity millenaire:genericvillager but it was marked as removed already
+[14:52:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: _Zonte moved too quickly! 3918.283947022489,-2.0,0.7243739440376302
+[14:52:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3389ms behind, skipping 67 tick(s)
+[14:56:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[14:56:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[14:56:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[14:56:56] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:57:47] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[14:57:52] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3579830a: No TileEntitySign at: 923/73/-160
+[15:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1

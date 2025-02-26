@@ -59,6 +59,7 @@ village:inuits_lonedislogcabin2
 village:inuits_farmingvillage
 village:seljuk_military_village_seljuks
 village:japanese_gunji
+village:mayan_agriculture
 village:mayan_mayan_controlled
 village:norman_abandonedmill
 building:inuits_lonedisiglu
@@ -104,6 +105,7 @@ building:japanese_japanesefarmbig
 building:inuits_flower
 building:seljuk_mosque_a_femaleside
 building:mayan_mayanmarket
+building:mayan_mayancrafter
 building:japanese_japaneseoutpost
 building:inuits_lake
 building:mayan_mayanarmyforge
