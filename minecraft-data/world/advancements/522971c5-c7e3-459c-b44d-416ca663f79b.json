@@ -1967,6 +1967,12 @@
     },
     "done": true
   },
+  "ic2:recipes/(empty)_fuel_can_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 07:13:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:javelin": {
     "criteria": {
       "craft": "2025-02-17 13:16:55 +0000"
