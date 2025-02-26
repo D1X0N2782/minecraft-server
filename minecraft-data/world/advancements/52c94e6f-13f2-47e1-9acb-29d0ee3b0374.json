@@ -1205,6 +1205,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2025-02-26 19:26:30 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/beetroot_seeds_recipes": {
     "criteria": {
       "has_item": "2025-02-22 19:53:11 +0000"
@@ -1313,6 +1319,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-17 15:37:58 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2025-02-26 19:13:26 +0000"
     },
     "done": true
   },
@@ -2113,6 +2125,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-17 16:30:47 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2025-02-26 19:25:03 +0000"
     },
     "done": true
   },

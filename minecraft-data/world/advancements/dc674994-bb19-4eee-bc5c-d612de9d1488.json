@@ -437,9 +437,11 @@
   },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
-      "heavy_tank": "2025-02-26 00:44:39 +0000"
+      "heavy_tank": "2025-02-26 00:44:39 +0000",
+      "oxygen_gear": "2025-02-26 19:54:00 +0000",
+      "oxygen_mask": "2025-02-26 19:07:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -904,6 +906,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_fuel": {
+    "criteria": {
+      "fuel_bucket": "2025-02-26 19:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 10:54:25 +0000"
@@ -1067,6 +1075,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2025-02-26 19:46:27 +0000"
     },
     "done": true
   },

@@ -677,9 +677,11 @@
   },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
-      "heavy_tank": "2025-02-26 00:42:14 +0000"
+      "heavy_tank": "2025-02-26 00:42:14 +0000",
+      "oxygen_gear": "2025-02-26 19:39:25 +0000",
+      "oxygen_mask": "2025-02-26 19:01:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -1443,6 +1445,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_fuel": {
+    "criteria": {
+      "fuel_bucket": "2025-02-26 19:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-18 09:25:54 +0000"
@@ -1530,6 +1538,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 08:57:23 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2025-02-26 19:53:29 +0000"
     },
     "done": true
   },
@@ -2722,6 +2736,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-22 16:26:15 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2025-02-26 19:52:12 +0000"
     },
     "done": true
   },
