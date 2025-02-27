@@ -1767,6 +1767,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/key_t1": {
+    "criteria": {
+      "got_key": "2025-02-27 18:10:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-19 21:05:26 +0000"
@@ -2224,6 +2230,7 @@
       "apple": "2025-02-17 12:58:24 +0000",
       "cooked_cod": "2025-02-21 14:14:25 +0000",
       "bread": "2025-02-23 11:54:45 +0000",
+      "golden_apple": "2025-02-27 18:09:48 +0000",
       "rotten_flesh": "2025-02-17 12:56:16 +0000",
       "cooked_chicken": "2025-02-19 12:54:51 +0000"
     },

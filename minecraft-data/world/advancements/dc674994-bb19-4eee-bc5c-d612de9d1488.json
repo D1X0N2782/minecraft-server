@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-27 15:03:17 +0000"
@@ -427,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-02-19 22:39:04 +0000"
@@ -756,6 +768,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dusttin_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 18:13:39 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/iron_chestplate_recipes": {
     "criteria": {
       "has_item": "2025-02-22 17:27:59 +0000"
@@ -864,6 +882,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dustcopper_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 18:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-02-22 13:48:00 +0000"
@@ -921,6 +945,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 10:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-27 18:03:37 +0000"
     },
     "done": true
   },
@@ -1450,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-21 11:34:06 +0000"
@@ -1630,6 +1666,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-25 16:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
     },
     "done": true
   },
@@ -1840,6 +1882,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-24 19:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-27 18:03:37 +0000"
     },
     "done": true
   },
@@ -2270,6 +2318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 10:54:25 +0000"
@@ -2357,6 +2411,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-23 21:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-27 18:04:48 +0000"
     },
     "done": true
   },

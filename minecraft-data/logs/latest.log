@@ -12716,3 +12716,238 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [16:58:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
 [16:58:38] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
 [16:58:48] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[17:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[17:00:01] [RCON Client #7/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] MIS DEDOS SANGRAN MIS OJOS LLORAN Y EL JUEGO SE RÍE
+[17:00:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[17:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[17:01:04] [User Authenticator #19/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[17:01:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[17:01:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:01:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:01:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:50580] logged in with entity id 466122 at (913.3000000119209, 10.0, -293.8134666081628)
+[17:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[17:02:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[17:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[17:02:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SMS_79 lost connection: Disconnected
+[17:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 left the game
+[17:02:56] [User Authenticator #20/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[17:02:56] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[17:02:56] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:02:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:02:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:53058] logged in with entity id 470376 at (937.9418053470188, 72.0, -225.27232364730224)
+[17:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[17:03:17] [User Authenticator #21/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SMS_79 is 408a001d-c1d2-401e-9852-f2dd90322779
+[17:03:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[17:03:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1013,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:03:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:03:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SMS_79[/92.246.81.160:28578] logged in with entity id 470952 at (-443.9370358354656, 82.0, -623.0330445995064)
+[17:03:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 joined the game
+[17:03:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.5383140200731305,-10.722248667987472,-2.8659010681820973
+[17:04:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:04:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:04:55] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:25] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:35] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:05:55] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:06:00] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:06:09] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:07:28] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:07:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:07:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:07:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:08:10] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PerdigonGamer: Set own game mode to Creative Mode]
+[17:08:47] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:11:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SMS_79 lost connection: Disconnected
+[17:11:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 left the game
+[17:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PerdigonGamer: Set own game mode to Survival Mode]
+[17:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PerdigonGamer: Set own game mode to Creative Mode]
+[17:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PerdigonGamer: Set own game mode to Survival Mode]
+[17:12:43] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[17:12:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[17:13:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[17:13:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[17:13:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[17:13:32] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:13:39] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:13:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:13:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved too quickly! -1.7921280904463401,-1.6284561935335233,10.092886760911085
+[17:13:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2492ms behind, skipping 49 tick(s)
+[17:14:00] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:05] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:10] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:15] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:20] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:25] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:35] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:14:55] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:00] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:05] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:10] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:15] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:20] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:25] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:15:37] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:16:42] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:17:29] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:17:42] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:17:49] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[17:17:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[17:17:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:17:54] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:18:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -5.234663671786251,0.0,-8.528828142357185
+[17:18:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 2.158794837491129,-10.490796109027968,2.1358918846882204
+[17:19:28] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:19:49] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:19:54] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:19:59] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:20:51] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:22:17] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:23:04] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:23:12] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:24:18] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:24:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:29:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:33:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:33:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:34:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[17:34:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[17:34:20] [User Authenticator #22/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[17:34:20] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[17:34:20] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[17:34:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:34:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:50866] logged in with entity id 519025 at (807.6005376718565, 36.0, -249.479267296852)
+[17:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[17:34:46] [Server thread/INFO] [GalacticraftCore]: Found matching world (-28) for name: -28
+[17:34:46] [Server thread/INFO] [GalacticraftCore]: Server attempting to transfer player IImperatore to dimension -28
+[17:36:26] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[17:36:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[17:37:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -1.908952241967313,0.0,9.924746850862789
+[17:39:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[17:39:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[17:39:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[17:42:28] [Server thread/INFO] [FML]: SRV MAJOR: (hunterth_A0 at -2185/68/263/2/0/581777559/Karooren/net.minecraft.world.WorldServer@6f0cee6e): Finished ending raid. Records: 9
+[17:45:42] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Better Nether, Biomes O' Plenty, Chameleon, Falling Tree, Galacticraft, Galacticraft Planets, GeckoLib, IC2 Classic Detection Helper, ICBM-Classic, Industrial Craft Classic, Iron Age Furniture, Iron Chest, LLibrary, MalisisCore, MalisisDoors, Mantle, Millenaire, Mowzie's Mobs, Spartan Weaponry, Storage Drawers, Tinkers' Construct, Traveler's Backpack, Waystones]
+[17:45:54] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:45:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 8.964064449482294,0.0,4.590738709572696
+[17:48:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -8.54715672141225,0.0,5.885295869775582
+[17:48:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 9.76644224072868,0.0,-2.6001304241612075
+[17:49:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[17:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[17:50:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 10.085003567787453,0.0,0.6339632269329876
+[17:58:57] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[17:59:02] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:00:00] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [29, -12] in dimension -28 (moon.moon) while populating chunk [28, -12], causing cascading worldgen lag.
+[18:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:00:00] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [30, -12] in dimension -28 (moon.moon) while populating chunk [29, -12], causing cascading worldgen lag.
+[18:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:00:00] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [30, -13] in dimension -28 (moon.moon) while populating chunk [29, -12], causing cascading worldgen lag.
+[18:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:00:00] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [29, -13] in dimension -28 (moon.moon) while populating chunk [28, -12], causing cascading worldgen lag.
+[18:00:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:00:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 1.9543858047458116,0.0,-10.150948650520235
+[18:00:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.012567146815968,0.0,-7.615137611979719
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [53, -24] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [53, -23] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [54, -24] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [54, -23] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [55, -24] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:18] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [55, -23] in dimension -28 (moon.moon) while populating chunk [53, -25], causing cascading worldgen lag.
+[18:01:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 10.100237708216127,0.0,0.3603783190425247
+[18:01:54] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [74, -33] in dimension -28 (moon.moon) while populating chunk [74, -34], causing cascading worldgen lag.
+[18:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:54] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [75, -30] in dimension -28 (moon.moon) while populating chunk [74, -29], causing cascading worldgen lag.
+[18:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:54] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [76, -30] in dimension -28 (moon.moon) while populating chunk [74, -29], causing cascading worldgen lag.
+[18:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:57] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [76, -31] in dimension -28 (moon.moon) while populating chunk [76, -33], causing cascading worldgen lag.
+[18:01:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:57] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [76, -32] in dimension -28 (moon.moon) while populating chunk [76, -33], causing cascading worldgen lag.
+[18:01:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:02:06] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [81, -17] in dimension -28 (moon.moon) while populating chunk [81, -18], causing cascading worldgen lag.
+[18:02:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:02:06] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [81, -16] in dimension -28 (moon.moon) while populating chunk [81, -17], causing cascading worldgen lag.
+[18:02:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:02:11] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [82, -16] in dimension -28 (moon.moon) while populating chunk [83, -16], causing cascading worldgen lag.
+[18:02:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:02:11] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [81, -16] in dimension -28 (moon.moon) while populating chunk [83, -16], causing cascading worldgen lag.
+[18:02:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -3.494590922289035,4.773629844572156,-8.472268931986491
+[18:03:35] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [64, -48] in dimension -28 (moon.moon) while populating chunk [64, -49], causing cascading worldgen lag.
+[18:03:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:35] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [64, -47] in dimension -28 (moon.moon) while populating chunk [64, -48], causing cascading worldgen lag.
+[18:03:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:35] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [63, -47] in dimension -28 (moon.moon) while populating chunk [64, -48], causing cascading worldgen lag.
+[18:03:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:35] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [63, -48] in dimension -28 (moon.moon) while populating chunk [64, -49], causing cascading worldgen lag.
+[18:03:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:51] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [62, -53] in dimension -28 (moon.moon) while populating chunk [62, -54], causing cascading worldgen lag.
+[18:03:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:51] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [61, -54] in dimension -28 (moon.moon) while populating chunk [62, -54], causing cascading worldgen lag.
+[18:03:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:51] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [60, -54] in dimension -28 (moon.moon) while populating chunk [61, -54], causing cascading worldgen lag.
+[18:03:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:03:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -0.14234251977086387,0.0,-10.099006316467353
+[18:04:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.920699882565714,6.000000238418579,3.441308219339703
+[18:05:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[18:05:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[18:05:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[18:05:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.588417925147041,0.0,7.100335736061652
+[18:05:30] [Server thread/WARN] [FML]: Galacticraft loaded a new chunk [49, -54] in dimension -28 (moon.moon) while populating chunk [49, -53], causing cascading worldgen lag.
+[18:05:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:07:51] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[18:09:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe moved too quickly! -0.07653477404323894,-0.2712241076924897,-10.288904795713336
+[18:10:38] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetMetadata]: Couldn't set data of loot item 1xitem.oil_canister_partial@0
+[18:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore has completed the challenge [I has the key]
+[18:12:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.1863645291987268,10.02334606158118,0.1438142888763423
+[18:16:08] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:18:35] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:21:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[18:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[18:23:15] [Server thread/INFO] [GalacticraftCore]: Found matching world (0) for name: 0
+[18:23:15] [Server thread/INFO] [GalacticraftCore]: Server attempting to transfer player IImperatore to dimension 0
+[18:23:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.0,-11.0,0.0
+[18:28:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:28:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -3.4814428570696236,0.0,-9.419730900998758
+[18:31:48] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:32:53] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:33:12] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:33:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.4281142334930337,3.6019184116949248,-9.534680913724316
+[18:33:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 2.651264733429116,-3.3462703824114044,9.42120807678748
+[18:36:34] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:41:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:48:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:49:22] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:50:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 6.743296580243509,0.0,7.405332244890076
+[18:52:14] [User Authenticator #23/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[18:52:14] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[18:52:14] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[18:52:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:52:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:51929] logged in with entity id 789571 at (957.5, 73.0, -59.5)
+[18:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[18:53:03] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[18:58:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jack_scythe lost connection: Disconnected
+[18:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe left the game
+[18:58:29] [User Authenticator #24/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[18:58:29] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[18:58:29] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[18:58:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:58:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:52005] logged in with entity id 796764 at (941.2375000119209, 71.5, -137.00864504815164)
+[18:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game

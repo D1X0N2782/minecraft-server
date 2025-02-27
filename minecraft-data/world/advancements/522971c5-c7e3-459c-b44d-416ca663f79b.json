@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-27 17:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 13:13:31 +0000"
@@ -577,6 +583,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-23 14:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-02-27 17:37:39 +0000"
     },
     "done": true
   },
@@ -1187,6 +1199,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-17 14:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-27 17:18:26 +0000"
     },
     "done": true
   },
@@ -1986,6 +2004,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-17 14:46:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/cropnetherwart_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 17:37:39 +0000"
     },
     "done": true
   },

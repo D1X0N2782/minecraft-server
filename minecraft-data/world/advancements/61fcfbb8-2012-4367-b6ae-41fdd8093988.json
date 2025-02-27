@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "ic2:recipes/hemp_seeds_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 17:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-22 00:49:02 +0000"
@@ -1710,6 +1716,12 @@
   "ic2:recipes/diamond_chestplate_recipes": {
     "criteria": {
       "has_item": "2025-02-27 16:21:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyeblack_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 18:22:43 +0000"
     },
     "done": true
   },

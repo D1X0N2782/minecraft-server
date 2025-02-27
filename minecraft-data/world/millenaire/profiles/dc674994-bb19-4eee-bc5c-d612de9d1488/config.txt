@@ -1,7 +1,8 @@
 player_name=Jack_scythe
 donation_mode=false
-culture_reputation=mayan,-520
+culture_reputation=mayan,-590
 culture_language=mayan,27
+village_reputations=953/77/-144,-700
 village_reputations=622/76/-159,-5200
 village_diplomacy=4706/71/162,5
 village_diplomacy=1470/83/175,5
