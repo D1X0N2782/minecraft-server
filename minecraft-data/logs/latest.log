@@ -4,3 +4,7 @@
 [03:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
 [03:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
 [03:00:01] [RCON Client #14/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[05:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[05:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[05:00:01] [RCON Client #16/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[05:22:40] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Better Nether, Biomes O' Plenty, Chameleon, Falling Tree, Galacticraft, Galacticraft Planets, GeckoLib, IC2 Classic Detection Helper, ICBM-Classic, Industrial Craft Classic, Iron Age Furniture, Iron Chest, LLibrary, MalisisCore, MalisisDoors, Mantle, Millenaire, Mowzie's Mobs, Spartan Weaponry, Storage Drawers, Tinkers' Construct, Traveler's Backpack, Waystones]
