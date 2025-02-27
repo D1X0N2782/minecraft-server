@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/ingotiron_recipes": {
     "criteria": {
       "has_item_0": "2025-02-21 10:54:25 +0000"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-21 11:15:44 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-02-22 14:55:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/charcoal_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 15:51:23 +0000"
     },
     "done": true
   },
@@ -158,6 +176,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-19 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chair_wood_ironage_stool_tall_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },
@@ -266,6 +290,12 @@
   "ic2:basic/acquirematter": {
     "criteria": {
       "has_item": "2025-02-25 15:26:50 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chair_wood_ironage_classic_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },
@@ -447,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-02-27 14:59:43 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
       "heavy_tank": "2025-02-26 00:44:39 +0000",
@@ -612,6 +648,18 @@
     },
     "done": true
   },
+  "ic2:recipes/spruce_wood_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chair_wood_ironage_bench_back_single_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-25 16:28:29 +0000"
@@ -651,6 +699,12 @@
   "ic2:recipes/chestwood_recipes": {
     "criteria": {
       "has_item_0": "2025-02-21 11:35:48 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chair_wood_ironage_stool_short_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },
@@ -828,6 +882,12 @@
     },
     "done": true
   },
+  "ironagefurniture:recipes/chair_wood_ironage_shield_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2025-02-24 19:25:43 +0000"
@@ -909,6 +969,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-02-19 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },
@@ -1747,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-21 11:06:43 +0000"
@@ -1804,6 +1876,12 @@
   "galacticraftcore:galacticraft/launch_rocket": {
     "criteria": {
       "launched_rocket": "2025-02-26 20:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },
@@ -2102,6 +2180,12 @@
     },
     "done": true
   },
+  "ironagefurniture:recipes/chair_wood_ironage_bench_single_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-19 22:39:07 +0000"
@@ -2297,6 +2381,12 @@
   "ic2:recipes/compacted_jetpack_recipes": {
     "criteria": {
       "has_item": "2025-02-26 16:27:00 +0000"
+    },
+    "done": true
+  },
+  "ironagefurniture:recipes/chair_wood_ironage_bench_log_single_spruce": {
+    "criteria": {
+      "has_rock": "2025-02-27 15:03:17 +0000"
     },
     "done": true
   },

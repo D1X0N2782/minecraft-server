@@ -25,3 +25,4 @@ Inuksuit;1158/78/134;inuksuit;inuits;
 Inuksuit;1366/79/710;inuksuit;inuits;
 Asiguk Iglu;5077/72/299;lonedisiglu;inuits;
 Asiguk Tupiq;746/78/-824;lonedislogcabin2;inuits;
+Kouku;1340/65/1337;lonemine;japanese;

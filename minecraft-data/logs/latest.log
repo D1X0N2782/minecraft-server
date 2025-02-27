@@ -12194,3 +12194,323 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [13:51:35] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
 [13:51:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
 [13:51:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:03:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[14:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[14:17:39] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[14:17:39] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[14:17:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:17:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:17:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:52849] logged in with entity id 105899 at (913.8006524156734, 45.0, -278.89743370957547)
+[14:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[14:31:11] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[14:31:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[14:31:14] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:32:24] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[14:32:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[14:32:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:46:57] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IImperatore is 862cdf4a-7781-42ab-a5f5-7cad1a909c65
+[14:46:57] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[14:46:57] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:46:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:46:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IImperatore[/85.53.110.93:55951] logged in with entity id 132166 at (953.0056600397892, 70.68952952252154, -136.74638507256725)
+[14:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore joined the game
+[14:47:50] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:48:05] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:48:58] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:50:53] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:51:17] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:53:19] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:53:33] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:54:14] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:54:19] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:54:38] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:54:43] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:55:15] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:55:20] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:55:25] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:55:41] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[14:57:50] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Jack_scythe is dc674994-bb19-4eee-bc5c-d612de9d1488
+[14:57:50] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[14:57:50] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[14:57:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:57:51] [Server thread/INFO] [FML]: Loading dimension -28 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[14:57:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jack_scythe[/79.117.215.16:49336] logged in with entity id 146315 at (235.71388739663354, 65.0, 269.9691676171481)
+[14:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe joined the game
+[14:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[14:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[14:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was shot by Evolved Skeleton
+[15:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[15:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[15:00:01] [RCON Client #5/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Jack_scythe, eres tan paquete que te mata un slime con resaca, ¡vaya tela!
+[15:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was blown up by Evolved Creeper
+[15:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Spider
+[15:02:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:02:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Spider
+[15:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:03:38] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:03:43] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:03:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:04:12] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:04:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:04:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -8.531518582765074,5.70000022649765,0.3233534901954407
+[15:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:05:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -6.4099259025729225,3.817518427573603,-7.0181144360271475
+[15:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:06:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 9.918816412024427,0.0,2.2107704828145813
+[15:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:07:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.62134824210267,5.301600202322007,4.699895638006261
+[15:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:08:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[15:08:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[15:08:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[15:08:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:08:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 817.9577011219067,7.0,-111.92670068041492
+[15:08:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:08:46] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:08:46] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:08:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
+[15:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:09:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -400.0,-7.0,-501.1934964342806
+[15:09:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3726ms behind, skipping 74 tick(s)
+[15:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:10:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:10:20] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:10:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:12:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:13:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 10.079386768490874,2.3035183517564946,-0.5778058165222717
+[15:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:13:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 6ea1fd65-cc6b-41a4-934e-c0511733dba9
+[15:13:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID 786fd749-afb4-47f5-b3f3-ea8da6743811
+[15:13:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity millenaire:genericvillager that already exists with UUID e708bac4-fcc1-4017-8288-c4a503da3345
+[15:14:30] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:14:48] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:14:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -3.9075882742822614,6.000000238418579,-7.509732321680303
+[15:15:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <IImperatore> a
+[15:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:17:43] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SMS_79 is 408a001d-c1d2-401e-9852-f2dd90322779
+[15:17:43] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[15:17:43] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1013,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[15:17:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:17:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SMS_79[/92.246.81.160:29237] logged in with entity id 194078 at (-444.30000001192093, 50.0, -635.6999999880791)
+[15:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 joined the game
+[15:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was slain by Evolved Zombie
+[15:18:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:19:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IImperatore lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[15:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore left the game
+[15:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:20:14] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IImperatore is 862cdf4a-7781-42ab-a5f5-7cad1a909c65
+[15:20:14] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[15:20:14] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[15:20:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:20:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IImperatore[/85.53.110.93:49446] logged in with entity id 200072 at (1110.9105222884198, 41.0, -209.35387897650048)
+[15:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IImperatore joined the game
+[15:20:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:22:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[15:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe was blown up by Evolved Creeper
+[15:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:25:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 2.2933326511625864,0.20159999966621456,-9.885685488288855
+[15:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:26:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 0.153581928735548,0.0,10.831917573617488
+[15:26:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:27:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 4.387792705411812,0.0,10.077923501207351
+[15:27:26] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[15:27:26] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[15:27:26] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[15:27:26] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[15:27:26] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[15:27:26] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[15:27:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2431ms behind, skipping 48 tick(s)
+[15:27:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! 3.4116308621305507,2.315600099325181,9.595835613537474
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [84, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [85, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [86, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [87, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [88, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [89, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [90, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [91, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [92, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [93, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:49] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [94, 67] in dimension 0 (overworld) while populating chunk [83, 80], causing cascading worldgen lag.
+[15:27:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [83, 67] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [83, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [84, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [85, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [86, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [87, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [88, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [89, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [90, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [91, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [92, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:50] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [93, 66] in dimension 0 (overworld) while populating chunk [82, 79], causing cascading worldgen lag.
+[15:27:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [81, 77] in dimension 0 (overworld) while populating chunk [81, 78], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [82, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [82, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [83, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [83, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [84, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [84, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [85, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [85, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [86, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [86, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [87, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [87, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [88, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [88, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [89, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [89, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [90, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [90, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [91, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [91, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [92, 68] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [92, 67] in dimension 0 (overworld) while populating chunk [81, 81], causing cascading worldgen lag.
+[15:27:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:27:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -9.849040312785519,0.0,-4.982078721954849
+[15:28:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 19159ms behind, skipping 383 tick(s)
+[15:28:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4129ms behind, skipping 82 tick(s)
+[15:28:13] [Server thread/WARN] [FML]: Industrial Craft Classic loaded a new chunk [58, 59] in dimension 0 (overworld) while populating chunk [58, 60], causing cascading worldgen lag.
+[15:28:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:28:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -3.9532186392677886,1.7016000592708593,-9.285134715770937
+[15:28:17] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:28:20] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:28:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:28:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:28:28] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:28:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer moved wrongly!
+[15:29:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IImperatore moved too quickly! -7.193605754760938,0.0,-7.031691660511058
+[15:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:31:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:32:35] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:33:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:35:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:36:25] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:38:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:39:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:40:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:41:22] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:41:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:41:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:41:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has reached the goal [All set]
+[15:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:43:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:45:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SMS_79 lost connection: Disconnected
+[15:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 left the game
+[15:46:09] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player SMS_79 is 408a001d-c1d2-401e-9852-f2dd90322779
+[15:46:09] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[15:46:09] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1013,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[15:46:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:46:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SMS_79[/92.246.81.160:28780] logged in with entity id 270014 at (-309.30000001192093, 33.0, -579.3000000119209)
+[15:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SMS_79 joined the game
+[15:46:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:46:23] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@5fe0ca13: No TileEntitySign at: 923/73/-160
+[15:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:48:06] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[15:48:06] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:48:08] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has reached the goal [Rocket Fuel]
+[15:51:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has reached the goal [We have liftoff!]
+[15:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jack_scythe ran out of oxygen!
+[15:54:20] [Server thread/INFO] [FML]: Loading dimension -29 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:54:20] [Server thread/INFO] [FML]: Loading dimension -30 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:54:20] [Server thread/INFO] [FML]: Loading dimension -31 (world) (net.minecraft.server.dedicated.DedicatedServer@319f3f64)
+[15:54:35] [Server thread/INFO] [GalacticraftCore]: Found matching world (-28) for name: -28
+[15:54:35] [Server thread/INFO] [GalacticraftCore]: Server attempting to transfer player PerdigonGamer to dimension -28
+[15:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer has completed the challenge [The Moon!]
+[15:56:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[15:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[15:56:52] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[15:56:52] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[15:56:52] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[15:56:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:56:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:54953] logged in with entity id 305332 at (945.2002386335823, 65.0, 2.6458150802635063)
+[15:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[15:57:53] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player tomoya4000 is 61fcfbb8-2012-4367-b6ae-41fdd8093988
+[15:57:53] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[15:57:53] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,betternether@0.1.8.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[15:57:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:57:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tomoya4000[/83.58.184.39:54279] logged in with entity id 307270 at (186.82014318586195, 63.20863361834686, 228.5935573163538)
+[15:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 joined the game
+[15:58:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tomoya4000 lost connection: Disconnected
+[15:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 left the game

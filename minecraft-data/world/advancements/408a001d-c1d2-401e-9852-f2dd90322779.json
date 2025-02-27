@@ -1489,6 +1489,12 @@
     },
     "done": true
   },
+  "ic2:recipes/diamond_chestplate_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 15:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-19 12:19:17 +0000"
