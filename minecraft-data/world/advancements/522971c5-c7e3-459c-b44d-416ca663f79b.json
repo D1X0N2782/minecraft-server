@@ -1618,6 +1618,12 @@
     },
     "done": true
   },
+  "ic2:recipes/dyeblack_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 12:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-19 17:31:33 +0000"
