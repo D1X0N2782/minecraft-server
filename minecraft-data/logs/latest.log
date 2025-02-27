@@ -8,3 +8,15 @@
 [05:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
 [05:00:01] [RCON Client #16/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
 [05:22:40] [Netty Epoll Server IO #7/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Better Nether, Biomes O' Plenty, Chameleon, Falling Tree, Galacticraft, Galacticraft Planets, GeckoLib, IC2 Classic Detection Helper, ICBM-Classic, Industrial Craft Classic, Iron Age Furniture, Iron Chest, LLibrary, MalisisCore, MalisisDoors, Mantle, Millenaire, Mowzie's Mobs, Spartan Weaponry, Storage Drawers, Tinkers' Construct, Traveler's Backpack, Waystones]
+[07:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[07:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[07:00:01] [RCON Client #18/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
+[07:32:55] [User Authenticator #33/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[07:32:55] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:32:55] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[07:32:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:32:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:61178] logged in with entity id 1016903 at (939.7763526068816, 71.5, -136.41791060486392)
+[07:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[07:34:37] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@28440102: No TileEntitySign at: 923/73/-160
+[07:34:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
+[07:34:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
