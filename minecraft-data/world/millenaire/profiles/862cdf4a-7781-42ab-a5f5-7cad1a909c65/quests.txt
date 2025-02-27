@@ -1,1 +1,1 @@
-quest:spiders;step:0;startTime:15530000;currentStepStartTime:15530000;villager:startvillager,4715219919463774000,953/77/-144;villager:wife,5129828142637398680,953/77/-144;villager:miner,3509582635638544679,953/77/-144
+quest:spiders;step:0;startTime:15600000;currentStepStartTime:15600000;villager:startvillager,4715219919463774000,953/77/-144;villager:wife,5775566812455229086,953/77/-144;villager:miner,2337567519043098626,953/77/-144

@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-27 19:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-25 16:28:29 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotbronze_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 19:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-02-21 10:54:25 +0000"
@@ -182,6 +194,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-19 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/carbon_plate_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:29:09 +0000"
     },
     "done": true
   },
@@ -359,6 +377,12 @@
     },
     "done": true
   },
+  "ic2:recipes/energy_crystal_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2025-02-24 12:44:30 +0000"
@@ -452,6 +476,12 @@
       "fungi_forest": "2025-02-21 11:23:57 +0000"
     },
     "done": false
+  },
+  "ic2:recipes/advanced_circuit_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:16:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -645,6 +675,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-25 16:28:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/advanced_alloy_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:39:19 +0000"
     },
     "done": true
   },
@@ -1318,6 +1354,18 @@
     },
     "done": true
   },
+  "ic2:basic/buildbatbox": {
+    "criteria": {
+      "has_item": "2025-02-27 19:04:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/treeleaves_recipes": {
+    "criteria": {
+      "has_item_2": "2025-02-27 19:07:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 11:25:52 +0000"
@@ -1567,6 +1615,12 @@
     },
     "done": true
   },
+  "ic2:recipes/diamond_chestplate_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:24:00 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/dyeblack_recipes": {
     "criteria": {
       "has_item_0": "2025-02-23 13:48:27 +0000"
@@ -1651,6 +1705,12 @@
     },
     "done": true
   },
+  "ic2:recipes/hopper_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:56:32 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/coal_generator": {
     "criteria": {
       "coal_generator": "2025-02-26 00:18:41 +0000"
@@ -1660,6 +1720,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-22 17:33:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/batbox_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:04:09 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/re-battery_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:03:35 +0000"
     },
     "done": true
   },
@@ -1906,6 +1978,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-21 11:06:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/raw_carbon_fibre_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:39:07 +0000"
     },
     "done": true
   },
@@ -2537,6 +2615,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-25 16:28:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/electric_treetap_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 19:04:50 +0000"
     },
     "done": true
   },
