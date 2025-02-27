@@ -14,4 +14,5 @@ village_diplomacy=4529/68/-445,5
 village_diplomacy=1054/79/681,5
 village_diplomacy=-523/74/-676,5
 village_diplomacy=496/71/222,5
+village_diplomacy=29/66/-317,5
 village_diplomacy=622/76/-159,5

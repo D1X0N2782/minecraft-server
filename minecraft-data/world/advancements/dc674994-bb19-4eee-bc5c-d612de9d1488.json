@@ -473,7 +473,8 @@
     "criteria": {
       "phantasmagoric_inferno": "2025-02-21 11:24:19 +0000",
       "visceral_heap": "2025-02-21 11:25:35 +0000",
-      "fungi_forest": "2025-02-21 11:23:57 +0000"
+      "fungi_forest": "2025-02-21 11:23:57 +0000",
+      "undergarden": "2025-02-27 21:55:13 +0000"
     },
     "done": false
   },
@@ -759,6 +760,12 @@
   "ironagefurniture:recipes/chair_wood_ironage_stool_short_spruce": {
     "criteria": {
       "has_rock": "2025-02-27 15:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-27 21:29:29 +0000"
     },
     "done": true
   },
@@ -1056,6 +1063,12 @@
     },
     "done": true
   },
+  "ic2:basic/compressuranium": {
+    "criteria": {
+      "has_item": "2025-02-27 21:50:58 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/rocket_fuel": {
     "criteria": {
       "fuel_bucket": "2025-02-26 19:46:05 +0000"
@@ -1327,6 +1340,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-02-21 10:55:53 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/refined_uranium_ingot_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 21:50:58 +0000"
     },
     "done": true
   },
@@ -2173,6 +2192,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingoturanium_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-27 21:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-21 11:29:38 +0000"
@@ -2348,6 +2373,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2025-02-27 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-27 21:29:29 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/rubber_wood_recipes": {
     "criteria": {
       "has_item": "2025-02-25 15:24:56 +0000"
@@ -2387,6 +2424,12 @@
   "ic2:recipes/nanosuit_leggings_recipes": {
     "criteria": {
       "has_item": "2025-02-23 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-27 21:29:29 +0000"
     },
     "done": true
   },
@@ -2675,6 +2718,12 @@
   "ironagefurniture:recipes/chair_wood_ironage_bench_log_single_big_oak": {
     "criteria": {
       "has_rock": "2025-02-19 22:39:04 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/bronze_shield_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 21:12:28 +0000"
     },
     "done": true
   },

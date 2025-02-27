@@ -24,12 +24,14 @@ village:seljuk_military_village_seljuks
 village:mayan_military
 village:mayan_agriculture
 village:byzantines_militaryvillage
+village:mayan_religious
 village:mayan_mayan_controlled
 village:seljuk_religious_village_seljuks
 village:byzantines_lonesheepfarm_x
 village:inuits_lonedislogcabin2
 building:mayan_mayanmining
 building:mayan_mayancacaofarm
+building:mayan_borderpost
 building:byzantines_oldsheepfarm
 building:inuits_lonedislogcabin2
 building:seljuk_borderpost_corner

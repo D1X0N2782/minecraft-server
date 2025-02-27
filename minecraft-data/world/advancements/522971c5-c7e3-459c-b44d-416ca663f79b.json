@@ -916,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-27 21:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-17 12:51:35 +0000"
@@ -1439,6 +1445,12 @@
   "ic2:recipes/nanosuit_helmet_recipes": {
     "criteria": {
       "has_item": "2025-02-23 13:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-27 21:00:04 +0000"
     },
     "done": true
   },
