@@ -137,6 +137,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-27 16:21:06 +0000",
+      "diamond_helmet": "2025-02-27 16:21:06 +0000",
+      "diamond_chestplate": "2025-02-27 16:21:06 +0000",
+      "diamond_boots": "2025-02-27 16:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-22 02:12:36 +0000"
@@ -863,6 +872,12 @@
     },
     "done": true
   },
+  "ic2:recipes/electric_jetpack_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 16:03:02 +0000"
+    },
+    "done": true
+  },
   "ironagefurniture:recipes/chair_wood_ironage_shield_acacia": {
     "criteria": {
       "has_rock": "2025-02-21 23:32:02 +0000"
@@ -1097,6 +1112,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_fuel": {
+    "criteria": {
+      "fuel_bucket": "2025-02-27 16:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-22 00:02:57 +0000"
@@ -1165,7 +1186,8 @@
   },
   "galacticraftcore:galacticraft/fill_all_tanks": {
     "criteria": {
-      "heavy_tank": "2025-02-24 12:38:26 +0000"
+      "heavy_tank": "2025-02-24 12:38:26 +0000",
+      "medium_tank": "2025-02-27 16:03:02 +0000"
     },
     "done": false
   },
@@ -1640,6 +1662,7 @@
       "cooked_mutton": "2025-02-21 23:55:42 +0000",
       "cooked_beef": "2025-02-21 23:54:30 +0000",
       "beef": "2025-02-22 02:41:59 +0000",
+      "baked_potato": "2025-02-27 16:04:44 +0000",
       "porkchop": "2025-02-22 02:39:14 +0000",
       "apple": "2025-02-22 00:30:45 +0000",
       "cooked_cod": "2025-02-22 14:20:53 +0000",
@@ -1681,6 +1704,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-22 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/diamond_chestplate_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 16:21:06 +0000"
     },
     "done": true
   },

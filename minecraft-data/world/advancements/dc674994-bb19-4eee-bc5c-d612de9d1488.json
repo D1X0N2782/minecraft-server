@@ -600,6 +600,12 @@
     },
     "done": true
   },
+  "ic2:recipes/glass_fibre_cable_recipes": {
+    "criteria": {
+      "has_item": "2025-02-27 16:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-21 11:26:17 +0000"

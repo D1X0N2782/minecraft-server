@@ -3216,6 +3216,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2025-02-27 16:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-18 08:49:06 +0000"
