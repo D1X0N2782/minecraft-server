@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "ic2:recipes/glass_fibre_cable_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 20:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 02:12:36 +0000"
@@ -668,6 +674,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-22 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/nanosuit_boots_recipes": {
+    "criteria": {
+      "has_item": "2025-02-26 21:56:30 +0000"
     },
     "done": true
   },

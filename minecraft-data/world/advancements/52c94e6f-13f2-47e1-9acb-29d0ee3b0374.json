@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "ic2:recipes/croppotato_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 20:41:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 19:23:16 +0000"
@@ -536,9 +542,10 @@
   "galacticraftcore:galacticraft/oxygen_gear": {
     "criteria": {
       "heavy_tank": "2025-02-26 17:40:51 +0000",
+      "oxygen_gear": "2025-02-26 20:37:50 +0000",
       "oxygen_mask": "2025-02-26 17:12:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -1697,6 +1704,7 @@
       "beef": "2025-02-19 15:13:47 +0000",
       "porkchop": "2025-02-19 15:01:53 +0000",
       "apple": "2025-02-22 15:14:31 +0000",
+      "potato": "2025-02-26 21:59:16 +0000",
       "cooked_cod": "2025-02-22 15:09:41 +0000",
       "mutton": "2025-02-19 14:57:55 +0000",
       "bread": "2025-02-22 17:59:47 +0000",
@@ -2612,6 +2620,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-02-26 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2025-02-26 20:41:25 +0000"
     },
     "done": true
   },

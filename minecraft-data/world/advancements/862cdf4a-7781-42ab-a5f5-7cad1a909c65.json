@@ -1525,7 +1525,8 @@
   },
   "galacticraftcore:galacticraft/fill_all_tanks": {
     "criteria": {
-      "heavy_tank": "2025-02-26 00:42:14 +0000"
+      "heavy_tank": "2025-02-26 00:42:14 +0000",
+      "medium_tank": "2025-02-26 21:26:06 +0000"
     },
     "done": false
   },
@@ -3364,6 +3365,12 @@
     },
     "done": true
   },
+  "ic2:recipes/cropcarrot_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 20:09:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-02-19 21:21:58 +0000"
@@ -3439,6 +3446,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-19 14:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-26 20:09:25 +0000"
     },
     "done": true
   },

@@ -76,6 +76,7 @@ building:seljuk_sarayfort_a_imams
 building:seljuk_full_wall_gateway
 building:mayan_mayanhouse
 building:japanese_japanesefarm
+building:mayan_mayanshamangrounds
 building:seljuk_full_wall_tower
 building:mayan_mayanlumber
 building:japanese_japaneselmh

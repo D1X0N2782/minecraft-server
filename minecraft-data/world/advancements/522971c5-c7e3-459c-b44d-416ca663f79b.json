@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 22:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-19 17:31:33 +0000"
@@ -116,6 +122,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-22 17:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 14:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -703,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "ironagefurniture:recipes/chair_wood_ironage_bench_log_single_oak": {
     "criteria": {
       "has_rock": "2025-02-17 12:51:35 +0000"
@@ -889,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 13:13:31 +0000"
@@ -1021,6 +1051,12 @@
     },
     "done": true
   },
+  "ic2:recipes/ingotcopper_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 21:05:14 +0000"
+    },
+    "done": true
+  },
   "ic2:recipes/dark_oak_wood_recipes": {
     "criteria": {
       "has_item": "2025-02-23 13:41:09 +0000"
@@ -1066,6 +1102,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-02-17 14:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -1402,6 +1444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-17 15:17:01 +0000"
@@ -1504,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-26 22:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-17 14:41:27 +0000"
@@ -1513,6 +1567,12 @@
   "ic2:recipes/oak_wood_recipes": {
     "criteria": {
       "has_item": "2025-02-22 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -1600,6 +1660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-26 22:02:29 +0000"
+    },
+    "done": true
+  },
   "ic2:basic/acquireresin": {
     "criteria": {
       "has_item": "2025-02-23 14:48:15 +0000"
@@ -1615,6 +1681,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 13:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -1754,6 +1826,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-02-17 12:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -1997,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:javelin": {
     "criteria": {
       "craft": "2025-02-17 13:16:55 +0000"
@@ -2153,6 +2237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-17 12:54:07 +0000"
@@ -2162,6 +2252,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-19 17:31:33 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/ingotgold_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -2192,6 +2288,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-17 13:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
     },
     "done": true
   },
@@ -2325,6 +2427,12 @@
   "ironagefurniture:recipes/chair_wood_ironage_bench_log_single_jungle": {
     "criteria": {
       "has_rock": "2025-02-22 17:05:56 +0000"
+    },
+    "done": true
+  },
+  "ic2:recipes/ingottin_recipes": {
+    "criteria": {
+      "has_item_0": "2025-02-26 21:05:14 +0000"
     },
     "done": true
   },
@@ -2490,9 +2598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-26 21:05:46 +0000"
+    },
+    "done": true
+  },
   "ic2:basic/buildcable": {
     "criteria": {
       "has_item": "2025-02-23 16:22:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2025-02-26 22:14:21 +0000"
     },
     "done": true
   },

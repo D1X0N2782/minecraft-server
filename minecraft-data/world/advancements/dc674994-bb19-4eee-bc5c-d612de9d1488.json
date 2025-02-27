@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2025-02-26 20:03:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-02-21 11:11:53 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-21 11:33:58 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/refinery": {
+    "criteria": {
+      "refinery": "2025-02-26 20:02:17 +0000"
     },
     "done": true
   },
@@ -990,6 +1002,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2025-02-26 20:08:22 +0000"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/fill_tank": {
     "criteria": {
       "heavy_tank": "2025-02-26 00:44:39 +0000"
@@ -1363,6 +1381,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-21 11:34:06 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_solar": {
+    "criteria": {
+      "advanced_solar": "2025-02-26 20:02:19 +0000"
     },
     "done": true
   },
@@ -1777,6 +1801,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2025-02-26 20:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2025-02-22 15:15:29 +0000"
@@ -2177,6 +2207,12 @@
   "ic2:recipes/cropcarrot_recipes": {
     "criteria": {
       "has_item_0": "2025-02-23 21:43:49 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2025-02-26 20:02:35 +0000"
     },
     "done": true
   },
