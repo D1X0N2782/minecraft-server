@@ -145,3 +145,6 @@
 [14:31:44] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3099066e: No TileEntitySign at: 923/73/-160
 [14:37:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PerdigonGamer lost connection: Disconnected
 [14:37:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer left the game
+[15:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[15:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[15:00:01] [RCON Client #21/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
