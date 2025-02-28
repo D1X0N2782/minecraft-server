@@ -1472,6 +1472,12 @@
     },
     "done": true
   },
+  "ic2:recipes/hemp_seeds_recipes": {
+    "criteria": {
+      "has_item": "2025-02-28 12:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-22 15:16:45 +0000"

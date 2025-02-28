@@ -52,3 +52,23 @@
 [11:50:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [11:50:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:51726] logged in with entity id 489662 at (925.5, 67.0, -195.5)
 [11:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
+[12:11:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:11:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ad3e7a2)
+[12:11:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[12:22:17] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:22:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ad3e7a2)
+[12:22:20] [Server thread/INFO] [FML]: Unloading dimension -1
+[12:28:32] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3099066e: No TileEntitySign at: 923/73/-160
+[12:28:37] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3099066e: No TileEntitySign at: 923/73/-160
+[12:37:49] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:37:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ad3e7a2)
+[12:37:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[12:45:54] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:45:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ad3e7a2)
+[12:45:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[12:45:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2099ms behind, skipping 41 tick(s)
+[12:49:57] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@3099066e: No TileEntitySign at: 923/73/-160
+[12:57:25] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[12:57:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ad3e7a2)
+[12:57:28] [Server thread/INFO] [FML]: Unloading dimension -1
+[13:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
