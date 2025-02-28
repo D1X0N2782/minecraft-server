@@ -41,3 +41,14 @@
 [10:46:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [10:46:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tomoya4000[/83.58.40.112:56483] logged in with entity id 452071 at (931.1172563260222, 88.0, -21.73836439199114)
 [10:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 joined the game
+[11:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[11:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[11:00:01] [RCON Client #17/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] EL CIELO ESTÁ VACÍO LAS NUBES SE RÍEN Y YO ME PUDRO AQUÍ
+[11:25:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tomoya4000 lost connection: Disconnected
+[11:25:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 left the game
+[11:50:00] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PerdigonGamer is 522971c5-c7e3-459c-b44d-416ca663f79b
+[11:50:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[11:50:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2444,jei@4.16.1.1012,falling_tree@2.4.0,bibliocraft@2.4.6,betternether@0.1.8.6,invmove@0.4.6,bettercaves@1.12.2,ic2@2.8.1001,mantle@1.12-1.3.3.55,waystones@4.1.0,mcp@9.42,controlling@3.0.10,storagedrawers@5.5.3,travelersbackpack@1.0.35,galacticraftcore@4.0.6,chameleon@1.12-4.1.3,FML@8.0.99.99,llibrary@1.7.20,icbmclassic@1.12.2-4.0.1.75,spartanweaponry@1.6.0,millenaire@Millénaire 8.1.2,ironagefurniture@0.2.0.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,ic2-classic-spmod@0.0.0.0,forge@14.23.5.2859,bettermineshafts@1.12.2-2.2.1,malisisdoors@1.12.2-7.3.0,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[11:50:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:50:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PerdigonGamer[/85.53.111.61:51726] logged in with entity id 489662 at (925.5, 67.0, -195.5)
+[11:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PerdigonGamer joined the game
