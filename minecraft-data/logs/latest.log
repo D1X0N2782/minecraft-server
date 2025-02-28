@@ -12444,3 +12444,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'ironagefurniture:chair_wood
 [22:56:48] [Server thread/INFO] [FML]: Unloading dimension -1
 [22:59:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tomoya4000 lost connection: Disconnected
 [22:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tomoya4000 left the game
+[23:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[23:00:01] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[23:00:01] [RCON Client #5/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon] Parece que no hay nadie en el servidor y ahora a quien cojones insulto yo
